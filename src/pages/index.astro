@@ -13,7 +13,7 @@ const title = 'Creek';
 const description = 'A Theme for Astro';
 const seoDescription = 'Creek is a theme for Astro static site generator';
 
-const allPosts = await Astro.glob<MarkdownFrontmatter>('./posts/*.md');
+const allPosts = await Astro.glob<MarkdownFrontmatter>('./*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
 ---
 
