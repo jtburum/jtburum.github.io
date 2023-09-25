@@ -1,5 +1,5 @@
 ---
-import EmailSignup from './Subscribe/EmailSignup.astro'
+// import EmailSignup from './Subscribe/EmailSignup.astro'
 
 export interface Props {
   title: string;
@@ -30,6 +30,28 @@ const { title, date, hero, youtube } = Astro.props;
   <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
     <slot />
   </section>
-
-  <EmailSignup />
 </article>
+<style>
+  pre {
+    padding: 8px 16px;
+    overflow: auto;
+    border-radius: 4px;
+    background: #343434;
+  }
+  code {
+    padding: 4px;
+    border-radius: 4px;
+    background: #343434;
+    font-family: Consolas, Monaco, 'Andale Mono', monospace;
+    direction: ltr;
+    font-size: 14px;
+  }
+  pre > code {
+    padding: 0;
+    line-height: 1.5;
+    word-break: normal;
+    white-space: pre;
+    word-spacing: normal;
+    tab-size: 4;
+  }
+</style>

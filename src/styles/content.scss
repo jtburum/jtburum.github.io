@@ -83,7 +83,7 @@
   ul li>code,
   ol li *:not(pre) code,
   ol li>code {
-    @apply inline-block text-white text-sm p-1 leading-none whitespace-nowrap font-mono align-baseline;
+    @apply inline text-white text-sm p-1 leading-none whitespace-nowrap font-mono align-baseline;
   }
 
   pre,
