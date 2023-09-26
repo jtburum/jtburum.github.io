@@ -1,6 +1,6 @@
 ---
-  title: "Get a random element from an Elixir List",
-  description: "example of how to get a random element from a List",
+  title: "Get a random element from an Elixir List"
+  description: "example of how to get a random element from a List"
   slug: "example-of-how-to-get-a-random-element-from-a-list"
   tags: ["elixir"]
   pubDate: "2022-10-05"
