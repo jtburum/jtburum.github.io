@@ -8,7 +8,7 @@ import grayMatter from "gray-matter";
   // prepare the dirs
   const srcDir = path.join(process.cwd(), "src");
   const publicDir = path.join(process.cwd(), "public");
-  const contentDir = path.join(srcDir, "pages", "posts");
+  const contentDir = path.join(srcDir, "pages");
   let contentFilePattern = path.join(contentDir, "*.md");
   if(os.platform().includes("win")) {
     contentFilePattern = contentFilePattern.replaceAll("\\", "/");
