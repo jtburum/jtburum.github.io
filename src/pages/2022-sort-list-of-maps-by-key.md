@@ -49,4 +49,4 @@ Enum.sort_by(l, fn(li) -> {li.payment, li.tip } end)
 ]
 ```
 
-If you enjoyed this elixir post you might also enjoy [Reading pdf text using Elixir](http://www.devdecks.io/2022-reading-pdf-text-using-elixir){:target="_blank"}
+If you enjoyed this elixir post you might also enjoy [Reading pdf text using Elixir](http://www.devdecks.io/2022-reading-pdf-text-using-elixir)
