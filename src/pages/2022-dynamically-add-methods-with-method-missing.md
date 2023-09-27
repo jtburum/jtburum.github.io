@@ -1,6 +1,6 @@
 ---
   title: "Dynamically add methods in ruby with method_missing"
-  description: "Dynamically add methods in ruby with method_missing",
+  description: "Dynamically add methods in ruby with method_missing"
   slug: 'dynamically-add-methods-in-ruby-with-method_missing'
   tags: ["ruby", "metaprogramming"]
   pubDate: "2022-05-03"
