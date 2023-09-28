@@ -9,7 +9,7 @@
 
 What follows is an example of how to verify a header signature using `OpenSSL::Digest` and `OpenSSL::HMAC`.
 
-If you would like more information on signing HTTP requests, here is a [link](https://tools.ietf.org/id/draft-cavage-http-signatures-07.html){:target="_blank"} to the IETF documentation.
+If you would like more information on signing HTTP requests, here is a [link](https://tools.ietf.org/id/draft-cavage-http-signatures-07.html) to the IETF documentation.
 
 In this scenario a client will be sending an HTTP request header, signature, to our application. This header contains a SHA key we will have previously generated and sent to our client/integration partner. 
 
@@ -62,5 +62,5 @@ end
 ```
 
 Further reading:
-- [When to use polymorphic associations in Rails](https://www.devdecks.io/2022-when-to-use-polymorphic-associations-rails){:target="_blank"}
-- [Difference between before_save and before_update and before_create in Rails](https://www.devdecks.io/2022-before-save-vs-before-update-or-create-in-rails){:target="_blank"}
+- [When to use polymorphic associations in Rails](https://www.devdecks.io/2022-when-to-use-polymorphic-associations-rails)
+- [Difference between before_save and before_update and before_create in Rails](https://www.devdecks.io/2022-before-save-vs-before-update-or-create-in-rails)

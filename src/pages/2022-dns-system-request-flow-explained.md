@@ -33,6 +33,6 @@ TL/DR:
 *Fully qualified domain name: the complete domain name a web server can be reached at. For example www(subdomain).devdecks(domain).com(root domain). This does not include the http(s) protocol.
 
 Continued reading:
-- [How subdomains work with dns](https://www.devdecks.io/2022-how-do-subdomains-work-with-dns){:target="_blank"}
-- [Same database table parent/child relationship using Rails](https://www.devdecks.io/2021-same-db-table-parent-child-relationship-rails){:target="_blank"}
+- [How subdomains work with dns](https://www.devdecks.io/2022-how-do-subdomains-work-with-dns)
+- [Same database table parent/child relationship using Rails](https://www.devdecks.io/2021-same-db-table-parent-child-relationship-rails)
 

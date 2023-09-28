@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This is an example of how you can implement in memory pagination using Elixir and NimblePublisher. If you are unfamiliar with NimblePublisher you can check out this [blog post](https://dashbit.co/blog/welcome-to-our-blog-how-it-was-made){:target="_blank"} from Jose Valim and Dashbit.
+This is an example of how you can implement in memory pagination using Elixir and NimblePublisher. If you are unfamiliar with NimblePublisher you can check out this [blog post](https://dashbit.co/blog/welcome-to-our-blog-how-it-was-made) from Jose Valim and Dashbit.
 
 First I want to address that there are many different methods for handling pagination in an application, but what I wanted to do was paginate an in memory array, or List, in Elixir. This is a list of blog posts gets compiled with my Elixir application on startup. 
 
