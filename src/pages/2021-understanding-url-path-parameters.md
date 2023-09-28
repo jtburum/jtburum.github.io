@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. Google was not showing love to this content as a set of flashcards and I didn't want to delete them entirely, I hope you find it useful.
+This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. 
 
 <h3>What is a URL Path?</h3>
 A URL path is the location of a resource within a domain, ex. domain.com/parent_resource/sub_resource.

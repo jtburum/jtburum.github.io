@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. Google was not showing love to this content as a set of flashcards and I didn't want to delete them entirely, I hope you find it useful.
+This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. 
 
 <h3>What do Elixir developers use Mix for?</h3>
 Many different things. Mix is used for creating Elixir apps, for compiling Elixir apps after code changes, to run an apps test suite, to resolve third party dependency compatibility, and for executing custom tasks.

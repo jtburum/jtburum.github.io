@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. Google was not showing love to this content as a set of flashcards and I didn't want to delete them entirely, I hope you find it useful.
+This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. 
 
 <h3>What attacks/vulerabilities does the Same Origin policy help prevent?</h3>
 User impersonation. Often websites store auth credentials in a cookie on your browser. Without SOP another website could read your credentials and act as you. This might not so bad if they're posting nonsense to your social media account. It would be very bad if they're stealing your banking information.

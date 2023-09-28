@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. Google was not showing love to this content as a set of flashcards and I didn't want to delete them entirely, I hope you find it useful.
+This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. 
 
 <h3>What is a JSON web token (JWT)?</h3>
 It is an access / authorization token that can be used when making requests to application servers to grant or deny access to server resources using the contents of the token for this determination.

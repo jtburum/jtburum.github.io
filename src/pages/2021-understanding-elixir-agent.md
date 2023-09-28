@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. Google was not showing love to this content as a set of flashcards and I didn't want to delete them entirely, I hope you find it useful.
+This and the other "Deck" posts are a repurposing of flashcard study decks to Q&A blog posts. 
 
 <h3>What is an Elixir Agent?</h3>
 They are a means of spawning an Elixir Process but with added the intention of keeping track of state.
