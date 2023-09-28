@@ -1,7 +1,7 @@
 ---
   title: "Handling unavailable server data in Rails"
   description: "handling data resources that are not immediately available in Ruby on Rails"
-  slug:'handling-data-resources-that-are-not-immediately-available-in-ruby-on-rails'
+  slug: 'handling-data-resources-that-are-not-immediately-available-in-ruby-on-rails'
   tags: ["rails", "sidekiq"]
   pubDate: "2022-09-26"
   layout: "../layouts/BlogPostLayout.astro"

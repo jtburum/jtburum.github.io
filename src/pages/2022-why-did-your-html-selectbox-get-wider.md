@@ -1,6 +1,6 @@
 ---
-  title: "Why did your HTML select get wider",
-  description: "html select wider with more text",
+  title: "Why did your HTML select get wider"
+  description: "html select wider with more text"
   slug: 'why-did-your-html-select-get-wider'
   tags: ["html"]
   pubDate: "2022-01-14"

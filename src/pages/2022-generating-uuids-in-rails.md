@@ -1,6 +1,6 @@
 ---
-  title: "How to generate uuids in a Ruby on Rails application",
-  description: "How to generate uuids in a Ruby on Rails application",
+  title: "How to generate uuids in a Ruby on Rails application"
+  description: "How to generate uuids in a Ruby on Rails application"
   slug: 'how-to-generate-uuids-in-a-ruby-on-rails-application'
   tags: ["rails"]
   pubDate: "2022-01-08"
