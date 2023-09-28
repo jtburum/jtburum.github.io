@@ -1,6 +1,6 @@
 ---
-  title: "Understanding Elixir Streams",
-  description: "Understanding Elixir Streams through explanation",
+  title: "Understanding Elixir Streams"
+  description: "Understanding Elixir Streams through explanation"
   slug: 'understanding-elixir-streams-through-explanation'
   tags: ["elixir"]
   pubDate: "2021-09-27"

@@ -1,6 +1,6 @@
 ---
-  title: "Understanding Elixir Task",
-  description: "Understanding Elixir Task through explanation",
+  title: "Understanding Elixir Task"
+  description: "Understanding Elixir Task through explanation"
   slug: 'understanding-elixir-task-through-explanation'
   tags: ["elixir"]
   pubDate: "2021-09-29"
