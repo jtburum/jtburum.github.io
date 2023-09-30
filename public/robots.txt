@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://howtocode.io/sitemap.xml
+Sitemap: https://www.devdecks.io/sitemap-0.xml
