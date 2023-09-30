@@ -3,7 +3,7 @@
   description: "elixir functions explained for new devs"
   slug: 'elixir-functions-explained-for-new-devs'
   tags: ["elixir"]
-  pubDate: "2021-09-01"
+  pubDate: "2021-08-31"
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
