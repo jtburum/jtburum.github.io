@@ -12,7 +12,7 @@ const { title, date, hero, youtube } = Astro.props;
 ---
 
 <article class="max-w-5xl mx-auto px-3">
-  <header class="mx-auto max-w-3xl text-center content">
+  <header style="margin: 0 !important" class="mx-auto max-w-3xl text-center content">
     <h1>{title}</h1>
   </header>
 
@@ -27,7 +27,7 @@ const { title, date, hero, youtube } = Astro.props;
   </div>}
 
   <!-- Content -->
-  <section class="max-w-3xl mx-auto py-6 lg:py-12 content">
+  <section style="margin: 0 !important" class="max-w-3xl mx-auto py-6 lg:py-12 content">
     <slot />
   </section>
 </article>
