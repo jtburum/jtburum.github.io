@@ -9,9 +9,9 @@ interface MarkdownFrontmatter {
   date: number;
 }
 
-const title = 'DevDecks';
+const title = 'TinyTechTuts';
 const description = 'Formerly a dev flashcard website now code snippets and tuts. I hope you enjoy your stay 🏡 .';
-const seoDescription = 'A web engineering blog by devdecks.';
+const seoDescription = 'A web engineering blog by TinyTechTuts.';
 
 const allPosts = await Astro.glob<MarkdownFrontmatter>('./*.md');
 const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
