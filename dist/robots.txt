@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.devdecks.io/sitemap-0.xml
+Sitemap: https://tinytechtuts.com/sitemap-0.xml
