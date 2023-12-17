@@ -5,10 +5,4 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   integrations: [sitemap()],
   site: "https://tinytechtuts.com"
-  // redirects: {
-  //   '/2023-ecto-trigger-update-without-changeset/': {
-  //     status: 301,
-  //     destination: 'https://google.com'
-  //   }
-  // }
 });
