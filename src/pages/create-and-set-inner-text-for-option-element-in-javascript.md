@@ -17,4 +17,4 @@ exportBookmarksTeamOption.innerText = user.team.name;
 
 In the above code snippet I first create the option element, then add an id to it using the `setAttribute` function and finally set the `innerText` attribute. 
 
-I hope this helped you! Have a nice rest of your day!
+I hope this helped! Have a good one!

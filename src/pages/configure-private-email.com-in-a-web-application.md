@@ -21,7 +21,7 @@ I had a need to send emails through the privatemeail.com smtp server in a Ruby o
     authentication: 'plain',
     enable_starttls: true
   }
-```
+```w
 
 For your case the values `address`, `port`, `authentication`, and `enable_starttls` in the settings hash should be the same as mine. The `enable_starttls` is for the security requirement that privateemail.com has. You will need to update the values for `domain`, `password`, and `user_name`.
 
@@ -29,4 +29,4 @@ I first tested the connection to the service in my `development.rb` file, this w
 
 After testing I was able to move this configuration to my `production.rb` configuration file to be used in my applications live environment. 
 
-I hope this helped you! Have a nice rest of your day!
+I hope this helped! Have a good one!
