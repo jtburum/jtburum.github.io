@@ -15,9 +15,11 @@ export async function getStaticPaths({ paginate }) {
   })
 }
 
+console.log(Astro.props)
 const { page } = Astro.props
 let pageTitle = 'TinyTechTuts';
-let pageDescription = `page ${page.currentPage}`;
+// let pageDescription = `page ${page.currentPage}`;
+let pageDescription = `s'explique`;
 let seoTitle = 'TinyTechTuts.com';
 let seoDescription = '';
 ---
