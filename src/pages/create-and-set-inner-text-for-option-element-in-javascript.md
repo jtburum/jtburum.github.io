@@ -1,5 +1,5 @@
 ---
-  title: "Create and the innerText for in JavaScript for option element"
+  title: "Create and set the innerText for in JavaScript for option element"
   description: "Set the innerText for in JavaScript for option element"
   tags: ["javascript", "option"]
   slug: "Set-the-innerText-for-in-JavaScript-for-option-element"
