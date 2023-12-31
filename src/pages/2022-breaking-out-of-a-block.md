@@ -11,7 +11,7 @@ When first learning to program in Ruby it can be difficult to find an answer to 
 
 So when you need to exit a block early you can use `break` to handle this, it will exit the block and return control back the method the block was running in.
 
-This is different from if you want to just skip the current iteration of the block, in that event you would want to use the [next](https://www.devdecks.io/2022-adding-a-guard-to-a-block) keyword.
+This is different from if you want to just skip the current iteration of the block, in that event you would want to use the [next](https://tinytechtuts.com/2022-adding-a-guard-to-a-block) keyword.
 
 ```ruby
 [1,2,3,4].each{|int| break if int == 3}

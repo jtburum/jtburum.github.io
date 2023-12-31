@@ -43,4 +43,4 @@ Header.defaultProps = {
 export default Header;
 ```
 
-Are you also interested in learning how to set state based on the value of a URL in React? If so it's [your lucky day](https://www.devdecks.io/2021-how-to-set-state-from-url-in-react). If not, [space ham](https://giphy.com/gifs/space-ham-juDuRdAjXoH9m).
+Are you also interested in learning how to set state based on the value of a URL in React? If so it's [your lucky day](https://tinytechtuts.com/2021-how-to-set-state-from-url-in-react). If not, [space ham](https://giphy.com/gifs/space-ham-juDuRdAjXoH9m).

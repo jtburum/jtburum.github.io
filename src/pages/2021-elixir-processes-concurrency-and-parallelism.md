@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-For a refresher on [Elixir processes](https://www.devdecks.io/2021-beam-elixir-processes-explained)
+For a refresher on [Elixir processes](https://tinytechtuts.com/2021-beam-elixir-processes-explained)
 
 If you have a concurrent application that means it has the ability to make progress on more than one task at the same time.
 
@@ -18,10 +18,10 @@ Before multi-core processes were created the BEAM VM enabled concurrency but not
 Once multi-core processors were created you could deploy multiple schedulers, one per core. Now each scheduler can operator on different processes at the same time, thus enabling parallelism.
 
 More Elixir process posts:
-[Processes for web programmers](https://www.devdecks.io/2021-beam-elixir-processes-explained),
-[Let it crash explained](https://www.devdecks.io/2021-let-it-crash-explained),
-[Processes in phoenix](https://www.devdecks.io/2021-introduction-to-elixir-processes-in-phoenix),
-[Process module cheatsheet](https://www.devdecks.io/2021-elixir-process-module-cheatsheet)
+[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained),
+[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained),
+[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix),
+[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet)
 
 Other useful resources:
 - https://medium.com/@itIsMadhavan/concurrency-vs-parallelism-a-brief-review-b337c8dac350

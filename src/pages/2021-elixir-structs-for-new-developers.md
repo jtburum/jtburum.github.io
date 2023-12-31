@@ -68,4 +68,4 @@ defmodule User do
 end
 ```
 
-[More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

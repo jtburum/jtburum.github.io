@@ -43,4 +43,4 @@ field(subfield: SubFieldType = defaultValue: FieldType
 ```
 
 For your continued enjoyment:
-- [How to tell if an argument is required in Graphql?](https://www.devdecks.io/2021-graphql-required-arguments)
+- [How to tell if an argument is required in Graphql?](https://tinytechtuts.com/2021-graphql-required-arguments)

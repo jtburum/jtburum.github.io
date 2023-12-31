@@ -13,7 +13,7 @@ In this scenario you need to use an outer join, either a left outer join or a ri
 
 
 Further reading:
-- [Retroactively add timestamps to a Phoenix/Ecto project](https://www.devdecks.io/2021-retroactively-add-timestamps-in-phoenix-ecto)
-- [Add a sitemap to a Phoenix project](https://www.devdecks.io/2020-add-sitemap-to-phoenix-elixir-project)
+- [Retroactively add timestamps to a Phoenix/Ecto project](https://tinytechtuts.com/2021-retroactively-add-timestamps-in-phoenix-ecto)
+- [Add a sitemap to a Phoenix project](https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project)
 
 

@@ -16,4 +16,4 @@ mix ecto.dump
 This will generate a `structure.sql` file containing the structure of your database in `priv/repo`
 
 Similar posts:
-- [How to handle Ecto associations with UUIDs](https://devdecks.io/2023-ecto-associations-with-uuids)
+- [How to handle Ecto associations with UUIDs](https://tinytechtuts.com/2023-ecto-associations-with-uuids)

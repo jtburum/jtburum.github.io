@@ -29,4 +29,4 @@ Accout.create(name: "blue bacon", email: "blue@bacon.istasty")
 # "blue bacon"
 ```
 
-If you enjoyed this post, you might also enjoy [Ruby on Rails integration testing cheatsheet](https://www.devdecks.io/2022-rails-integration-testing-cheatsheet) or other [ActiveRecord](https://www.devdecks.io/tags/active-record) posts.
+If you enjoyed this post, you might also enjoy [Ruby on Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet) or other [ActiveRecord](https://tinytechtuts.com/tags/active-record) posts.

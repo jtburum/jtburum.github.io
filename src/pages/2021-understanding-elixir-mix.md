@@ -68,4 +68,4 @@ On the command line execute `mix hello`.
 - `mix phx.server` - starts the application and all servers
 
 
-[More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

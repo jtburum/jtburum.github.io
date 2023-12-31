@@ -21,5 +21,5 @@ Any time you build an application there will almost inevitably come a time when 
  
 Illustrated above, the two nested Lists are combined into a single List with the elements in the first nested list being accounted for first and the items in the second nested list being accounted for second.
 
-I wrote another List post covering sorting a list of maps [here](https://www.devdecks.io/2022-sort-list-of-maps-by-key), if you indulge I hope you enjoy.
+I wrote another List post covering sorting a list of maps [here](https://tinytechtuts.com/2022-sort-list-of-maps-by-key), if you indulge I hope you enjoy.
 

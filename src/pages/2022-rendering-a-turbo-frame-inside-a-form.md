@@ -157,5 +157,5 @@ Step 2
 Now when you submit each form it will hit the update action in the controller async using Turbo Drive and redirect you to the edit path as long as the order still has steps to complete (in this example we stop the steps at 2). 
 
 Further reading:
-- [How to iterate a string containing newlines in Ruby](https://www.devdecks.io/2022-how-to-iterate-string-with-newlines-in-ruby)
-- [How to replace the contents of a string in Ruby](https://www.devdecks.io/2022-how-to-replace-string-content-in-ruby)
+- [How to iterate a string containing newlines in Ruby](https://tinytechtuts.com/2022-how-to-iterate-string-with-newlines-in-ruby)
+- [How to replace the contents of a string in Ruby](https://tinytechtuts.com/2022-how-to-replace-string-content-in-ruby)

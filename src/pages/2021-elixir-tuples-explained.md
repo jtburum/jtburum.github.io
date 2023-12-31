@@ -58,5 +58,5 @@ Using the `Tuple` `delete_at/2` function and passing it the tuple and the index 
 ```
 
 More Elixir Decks:
-1. [Atoms and Integers](https://www.devdecks.io/2021-elixir-atoms-and-integers-explained)
-2. [List](https://www.devdecks.io/2021-elixir-lists-explained)
+1. [Atoms and Integers](https://tinytechtuts.com/2021-elixir-atoms-and-integers-explained)
+2. [List](https://tinytechtuts.com/2021-elixir-lists-explained)

@@ -19,4 +19,4 @@ iex(8)> Map.drop(map, [:k2, :k1])
 %{k3: :v3}
 ```
 
-In the event you need to remove a single k/v pair there is a `delete` function on the `Map` module that can be utilized. I review that [here](https://www.devdecks.io/2022-remove-multiple-key-value-pairs-from-map).
+In the event you need to remove a single k/v pair there is a `delete` function on the `Map` module that can be utilized. I review that [here](https://tinytechtuts.com/2022-remove-multiple-key-value-pairs-from-map).

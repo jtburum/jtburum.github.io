@@ -34,7 +34,7 @@ Which will produce the following output:
 ```
 
 Further reading:
-- [Migrating to Elixir's Earmark for markdown processing](https://www.devdecks.io/2021-elixir-earmark-code-parsing)
-- [An series of introductions to Elixir Processes](https://www.devdecks.io/2021-beam-elixir-process-summary)
+- [Migrating to Elixir's Earmark for markdown processing](https://tinytechtuts.com/2021-elixir-earmark-code-parsing)
+- [An series of introductions to Elixir Processes](https://tinytechtuts.com/2021-beam-elixir-process-summary)
 
 

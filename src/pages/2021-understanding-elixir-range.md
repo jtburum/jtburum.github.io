@@ -52,4 +52,4 @@ Enum.count/1
 ```
 
 For your continued enjoyment:
-- [More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

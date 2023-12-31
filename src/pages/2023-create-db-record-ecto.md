@@ -15,4 +15,4 @@ iex(5)> Barks.Repo.insert(t)
 ```
 
 Similar posts:
-- [Retroactively add timestamps to an Ecto project](https://devdecks.io/2021-retroactively-add-timestamps-in-phoenix-ecto)
+- [Retroactively add timestamps to an Ecto project](https://tinytechtuts.com/2021-retroactively-add-timestamps-in-phoenix-ecto)

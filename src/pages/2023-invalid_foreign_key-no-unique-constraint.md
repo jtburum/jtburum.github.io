@@ -34,4 +34,4 @@ After rollback this migration with `mix ecto.rollback`, this is what fixed the e
 ```
 
 Similar posts:
-- [How to set a primary key using Ecto](https://devdecks.io/2023-set-primary-key-ecto)
+- [How to set a primary key using Ecto](https://tinytechtuts.com/2023-set-primary-key-ecto)

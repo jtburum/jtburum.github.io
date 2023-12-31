@@ -24,7 +24,7 @@ Be careful with this though, it can sometimes have unexpected behavior. In the e
 
 But since "like" contains an "i" and "e", it method also deleted those characters from the word "pie".
 
-To delete a full word, I would use [gsub](https://www.devdecks.io/2022-how-to-replace-string-content-in-ruby) like so:
+To delete a full word, I would use [gsub](https://tinytechtuts.com/2022-how-to-replace-string-content-in-ruby) like so:
 
 ```ruby
 => "I like pie".gsub("like", "")
@@ -33,5 +33,5 @@ To delete a full word, I would use [gsub](https://www.devdecks.io/2022-how-to-re
 
 
 Further reading:
-- [Handling system authentication in software engineering](https://www.devdecks.io/2022-system-auth-in-software-engineering)
-- [How to iterate a string containing newlines in Ruby](https://www.devdecks.io/2022-how-to-iterate-string-with-newlines-in-ruby)
+- [Handling system authentication in software engineering](https://tinytechtuts.com/2022-system-auth-in-software-engineering)
+- [How to iterate a string containing newlines in Ruby](https://tinytechtuts.com/2022-how-to-iterate-string-with-newlines-in-ruby)

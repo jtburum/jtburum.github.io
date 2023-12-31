@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-Prior to migrating to Earmark any html needed for the [DevDeck cards](https://www.devdecks.io/decks/elixir/comprehensions/a756fa67-e16d-4cf8-b303-1cbee8b22fce) had been hard coded. Switching to Earmark for markdown processing now saves me a lot of time in card creation. Previously I would have to save a card question or answer with a code block resembling this:
+Prior to migrating to Earmark any html needed for the [DevDeck cards](https://tinytechtuts.com/decks/elixir/comprehensions/a756fa67-e16d-4cf8-b303-1cbee8b22fce) had been hard coded. Switching to Earmark for markdown processing now saves me a lot of time in card creation. Previously I would have to save a card question or answer with a code block resembling this:
 ```
 """Multi-line string of text
   <br />
@@ -134,6 +134,6 @@ After testing this locally I deployed it using Gigalixir and ran the migration i
 
 Following the successful migration the transition was complete.
 
-If you found this useful I also wrote a post about a migrating to add timestamps to the DevDecks database retroactively [here](https://www.devdecks.io/2021-retroactively-add-timestamps-in-phoenix-ecto):
+If you found this useful I also wrote a post about a migrating to add timestamps to the DevDecks database retroactively [here](https://tinytechtuts.com/2021-retroactively-add-timestamps-in-phoenix-ecto):
 
-You can find more Elixir posts [here](https://www.devdecks.io/tags/elixir).
+You can find more Elixir posts [here](https://tinytechtuts.com/tags/elixir).

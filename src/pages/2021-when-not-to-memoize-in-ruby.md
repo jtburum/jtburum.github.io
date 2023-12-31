@@ -54,4 +54,4 @@ end
 Lesson learned the hard way, but should have known better.
 
 Similar post(s):
-[How to memoize a conditional using Ruby](https://www.devdecks.io/2021-memoizing-conditionals-in-ruby)
+[How to memoize a conditional using Ruby](https://tinytechtuts.com/2021-memoizing-conditionals-in-ruby)

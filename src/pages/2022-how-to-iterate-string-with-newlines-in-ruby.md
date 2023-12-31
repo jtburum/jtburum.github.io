@@ -34,5 +34,5 @@ end
 ```
 
 Further reading:
-- [How to read Ruby open source code locally](https://www.devdecks.io/2022-how-to-read-ruby-open-source-code-locally)
-- [Handle controller responses using Rails before_action](https://www.devdecks.io/2022-handle-controller-responses-in-before-action)
+- [How to read Ruby open source code locally](https://tinytechtuts.com/2022-how-to-read-ruby-open-source-code-locally)
+- [Handle controller responses using Rails before_action](https://tinytechtuts.com/2022-handle-controller-responses-in-before-action)

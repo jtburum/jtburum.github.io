@@ -32,4 +32,4 @@ Accept, Accept-Language, Content-Language, Content-Type are the four most often 
 <h3>What are the HTTP methods that by default will not trigger a preflight request?</h3>
 GET, POST, or HEAD.
 
-- [More security concepts decks](https://www.devdecks.io/tags/elixir-deck)
+- [More security concepts decks](https://tinytechtuts.com/tags/elixir-deck)

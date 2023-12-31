@@ -46,5 +46,5 @@ Note that if you run the `bundle open` command without setting a value for `BUND
 So you could alternatively set a value for `$EDITOR` and you should have the same outcome. Dealers choice.
 
 Further reading:
-- [How to handle token auth in Rails](https://www.devdecks.io/2022-how-to-handle-token-auth-in-rails)
-- [Ruby on Rails integration testing cheatsheet](https://www.devdecks.io/2022-rails-integration-testing-cheatsheet)
+- [How to handle token auth in Rails](https://tinytechtuts.com/2022-how-to-handle-token-auth-in-rails)
+- [Ruby on Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet)

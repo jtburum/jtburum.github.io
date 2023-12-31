@@ -20,4 +20,4 @@ In my example I am applying text after the first two links in the selector, whic
 The problem is when you add a fourth link there exists a style bug because the | is only applied to the first two elements:
 `Link One | Link Two | Link Three Link Four`
 
-I added my solution for this [here](https://www.devdecks.io/2021-apply-css-to-all-but-last-child).
+I added my solution for this [here](https://tinytechtuts.com/2021-apply-css-to-all-but-last-child).

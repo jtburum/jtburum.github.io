@@ -13,4 +13,4 @@ If you have a one to many or many to many association in your Ecto schema and yo
 has_many :items, on_delete: :delete_all
 ```
 
-Interest in more Ecto options? I wrote on post on [setting primary keys](https://www.devdecks.io/2022-set-a-primary-key-ecto) you can find [here](https://www.devdecks.io/2022-set-a-primary-key-ecto).
+Interest in more Ecto options? I wrote on post on [setting primary keys](https://tinytechtuts.com/2022-set-a-primary-key-ecto) you can find [here](https://tinytechtuts.com/2022-set-a-primary-key-ecto).

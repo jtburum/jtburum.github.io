@@ -20,4 +20,4 @@ An example use of `Repo.query`:
 Repo.query("select id, name from stores where id >= 10") 
 ```
 
-If you found this post helpful you might also like [Ecto: example inner join query](https://www.devdecks.io/2022-example-ecto-inner-join-query).
+If you found this post helpful you might also like [Ecto: example inner join query](https://tinytechtuts.com/2022-example-ecto-inner-join-query).

@@ -29,4 +29,4 @@ elixirc my_exs_file.ex
 ``` 
 The above will write a compiled BEAM file to disk and you will be able to use the modules/functions you create in your Elixir environment.
 
-[More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

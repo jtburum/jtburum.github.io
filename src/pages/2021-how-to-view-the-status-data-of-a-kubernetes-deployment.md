@@ -9,7 +9,7 @@
 
 Note:
 If you are interested in creating a Kubernetes Deployment check out this previous post:
-- [Create your first Rails app cluster with Kubernetes and Docker](https://www.devdecks.io/2021-create-your-first-kubernetes-rails-app-pt1)
+- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
 
 On with the show...
 
@@ -29,9 +29,9 @@ kubectl get deployment reporting-app-deployment -o yaml
 You will see a lot of data populated by K8's in each section of the output, but the key thing to note is the `status:` section which can be useful to see if your expected K8's environment matches what is currently running. Specifically check that the values for `status.availableReplicas` matches `spec.replicas`.
 
 Similar post:
-- [Create your first Rails app cluster with Kubernetes and Docker](https://www.devdecks.io/2021-create-your-first-kubernetes-rails-app-pt1)
-- [Kubernetes kubectl commands for newbies](https://www.devdecks.io/2021-kubernetes-kubectl-commands-for-newbies)
-- [How to view a Kubernetes pods IP address](https://www.devdecks.io/2021-how-to-view-kubernetes-pod-ip-address)
-- [Kubernetes node processes explained](https://www.devdecks.io/2021-kubernetes-worker-node-processes-explained)
-- [Connecting Kubernetes Deployments to Pods](https://www.devdecks.io/2021-connecting-pods-to-deployments-kubernetes)
-- [Connecting Kubernetes Services to Deployments](https://www.devdecks.io/2021-connecting-services-to-deployments-kubernetes)
+- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
+- [Kubernetes kubectl commands for newbies](https://tinytechtuts.com/2021-kubernetes-kubectl-commands-for-newbies)
+- [How to view a Kubernetes pods IP address](https://tinytechtuts.com/2021-how-to-view-kubernetes-pod-ip-address)
+- [Kubernetes node processes explained](https://tinytechtuts.com/2021-kubernetes-worker-node-processes-explained)
+- [Connecting Kubernetes Deployments to Pods](https://tinytechtuts.com/2021-connecting-pods-to-deployments-kubernetes)
+- [Connecting Kubernetes Services to Deployments](https://tinytechtuts.com/2021-connecting-services-to-deployments-kubernetes)

@@ -23,4 +23,4 @@ This function will open a new document. The document will be opened in the same 
 This function will open the new document in a new browser window.
 
 Similar post
-- [How to copy text from a collection of non input elements in JavaScript](https://www.devdecks.io/2021-copy-collection-text-to-clipboard-js)
+- [How to copy text from a collection of non input elements in JavaScript](https://tinytechtuts.com/2021-copy-collection-text-to-clipboard-js)

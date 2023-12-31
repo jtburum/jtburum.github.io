@@ -36,4 +36,4 @@ changeset =
 |> validate_length(:title, max: 30) 
 ```
 
-If you enjoyed this post you may also enjoy [https://www.devdecks.io/2022-update-what-ecto-considers-empty](https://www.devdecks.io/2022-update-what-ecto-considers-empty){:target="_blank}.
+If you enjoyed this post you may also enjoy [https://tinytechtuts.com/2022-update-what-ecto-considers-empty](https://tinytechtuts.com/2022-update-what-ecto-considers-empty){:target="_blank}.

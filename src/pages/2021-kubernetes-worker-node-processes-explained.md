@@ -24,11 +24,11 @@ This is a K8's process that is responsible for running and stopping pods on a no
 In a K8's environment there will usually be replicas of each node for failover and load balancing. The K8's components that are responsible for managing what requests go to which node is called a service and a service uses another K8's worker process called kube-proxy to actually do the intelligent request forwarding.
 
 Similar posts:
-- [How to use a secrets file for postgres credentials using Kubernetes](https://www.devdecks.io/2021-how-to-use-a-secrets-file-for-postgres-credentials-kubernetes)
-- [When to use which service type in Kubernetes](https://www.devdecks.io/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
-- [How to view a Kubernetes pods IP address](https://www.devdecks.io/2021-how-to-view-kubernetes-pod-ip-address)
-- [How to view the status data in a Kubernetes Deployment](https://www.devdecks.io/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
-- [Create your first Rails app cluster with Kubernetes and Docker](https://www.devdecks.io/2021-create-your-first-kubernetes-rails-app-pt1)
-- [Kubernetes kubectl commands for newbies](https://www.devdecks.io/2021-kubernetes-kubectl-commands-for-newbies)
-- [Connecting Kubernetes Deployments to Pods](https://www.devdecks.io/2021-connecting-pods-to-deployments-kubernetes)
-- [Connecting Kubernetes Services to Deployments](https://www.devdecks.io/2021-connecting-services-to-deployments-kubernetes)
+- [How to use a secrets file for postgres credentials using Kubernetes](https://tinytechtuts.com/2021-how-to-use-a-secrets-file-for-postgres-credentials-kubernetes)
+- [When to use which service type in Kubernetes](https://tinytechtuts.com/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
+- [How to view a Kubernetes pods IP address](https://tinytechtuts.com/2021-how-to-view-kubernetes-pod-ip-address)
+- [How to view the status data in a Kubernetes Deployment](https://tinytechtuts.com/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
+- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
+- [Kubernetes kubectl commands for newbies](https://tinytechtuts.com/2021-kubernetes-kubectl-commands-for-newbies)
+- [Connecting Kubernetes Deployments to Pods](https://tinytechtuts.com/2021-connecting-pods-to-deployments-kubernetes)
+- [Connecting Kubernetes Services to Deployments](https://tinytechtuts.com/2021-connecting-services-to-deployments-kubernetes)

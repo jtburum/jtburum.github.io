@@ -21,4 +21,4 @@ In a [previous post](http://localhost:4000/2022-ecto-direct-sql-query){:taget="_
 
 Then you don't need to use the `Ecto.Adapters.SQL` module because the `.to_sql` function will be imported into your Repo module.
 
-If you found this post helpful you might also like [Ecto: example inner join query](https://www.devdecks.io/2022-example-ecto-inner-join-query).
+If you found this post helpful you might also like [Ecto: example inner join query](https://tinytechtuts.com/2022-example-ecto-inner-join-query).

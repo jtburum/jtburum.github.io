@@ -88,5 +88,5 @@ Enum.filter(wise_words, fn (word) -> (word !== "bears") && (word !== "beets") en
 ```
 
 More Elixir Decks:
-1. [Atoms and Integers](https://www.devdecks.io/2021-elixir-atoms-and-integers-explained)
-2. [Tuples](https://www.devdecks.io/2021-elixir-tuples-explained)
+1. [Atoms and Integers](https://tinytechtuts.com/2021-elixir-atoms-and-integers-explained)
+2. [Tuples](https://tinytechtuts.com/2021-elixir-tuples-explained)

@@ -42,9 +42,9 @@ params.permit(author: [:post_title, tags: [:id, :name]])
 ```
 
 More Ruby cheatsheets:
-[Ruby HTTP gem](https://www.devdecks.io/2021-ruby-http-gem-cheatsheet),
-[Rails error handling](https://www.devdecks.io/2021-rails-handling-errors)
-[Rails DB encryption](https://www.devdecks.io/2021-rails-db-encryption-cheetsheet)
+[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet),
+[Rails error handling](https://tinytechtuts.com/2021-rails-handling-errors)
+[Rails DB encryption](https://tinytechtuts.com/2021-rails-db-encryption-cheetsheet)
 
 <br />
 Resources I found useful when building this:

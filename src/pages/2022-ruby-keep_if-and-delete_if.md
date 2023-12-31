@@ -34,5 +34,5 @@ array.keep_if {|int| int.even? }
 ...
 
 Since you seem like keeping things, why not keep on reading with this ruby post on [
-How to add a guard to a block in Ruby](https://www.devdecks.io/2022-adding-a-guard-to-a-block)?
+How to add a guard to a block in Ruby](https://tinytechtuts.com/2022-adding-a-guard-to-a-block)?
 

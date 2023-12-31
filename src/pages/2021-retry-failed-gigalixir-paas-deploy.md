@@ -20,4 +20,4 @@ git push gigalixir master
 ```
 
 For your continued enjoyment:
-- [Deploying a clean build to Gigalixir](https://www.devdecks.io/2020-gigalixir-deploy-no-cache)
+- [Deploying a clean build to Gigalixir](https://tinytechtuts.com/2020-gigalixir-deploy-no-cache)

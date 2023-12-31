@@ -50,7 +50,7 @@ jest.mock("lib/hooks", () => ({
 
 Now any additional hook(s) that needs to be mocked out can be added to the `jest.mock` and any that do not will be handled by the `requireActual` function.
 
-Note: I wrote a Jest cheatsheet for React developers that you may also find useful [here](https://www.devdecks.io/2021-jest-testing-cheatsheet). 
+Note: I wrote a Jest cheatsheet for React developers that you may also find useful [here](https://tinytechtuts.com/2021-jest-testing-cheatsheet). 
 
 <br />
 Resources I found useful while working on this this:

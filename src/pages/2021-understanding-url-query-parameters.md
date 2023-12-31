@@ -24,4 +24,4 @@ A query parameter is most often used to filter a collection of data by some attr
 <h3>What is the syntax for using a query parameter?</h3>
 You first indicate you are using query parameter by using a ? followed by the key value pair, all query parameters after the first use an & to indicate there is another query param `someurl.com?firstQp=bah&secondQp=humbug`.
 
-- [More decks on urls](https://www.devdecks.io/tags/elixir-deck)
+- [More decks on urls](https://tinytechtuts.com/tags/elixir-deck)

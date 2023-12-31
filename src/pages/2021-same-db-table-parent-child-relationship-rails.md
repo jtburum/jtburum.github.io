@@ -54,6 +54,6 @@ A Group will also have many groups through the `has_many`. Now for an instance o
 ```
 
 Similar posts:
-- [Redirect to nested resource url in Rails](https://www.devdecks.io/2021-redirect-to-nested-resource-url-rails)
- - [Creating a table with non id primary key in Rails](https://www.devdecks.io/2021-creating-a-table-with-different-primary-key-rails)
+- [Redirect to nested resource url in Rails](https://tinytechtuts.com/2021-redirect-to-nested-resource-url-rails)
+ - [Creating a table with non id primary key in Rails](https://tinytechtuts.com/2021-creating-a-table-with-different-primary-key-rails)
 

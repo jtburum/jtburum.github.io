@@ -20,7 +20,7 @@ To help solve this issue it is best to add an index to the table on the column b
 Be wary of any additional querying / app processing occurring after your query is returned because if it's a long running query then any additional processing time can also lead to your http connection timing out.
 
 Further reading:
-- [Retroactively add timestamps to a Phoenix/Ecto project](https://www.devdecks.io/2021-retroactively-add-timestamps-in-phoenix-ecto)
-- [Add a sitemap to a Phoenix project](https://www.devdecks.io/2020-add-sitemap-to-phoenix-elixir-project)
+- [Retroactively add timestamps to a Phoenix/Ecto project](https://tinytechtuts.com/2021-retroactively-add-timestamps-in-phoenix-ecto)
+- [Add a sitemap to a Phoenix project](https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project)
 
 

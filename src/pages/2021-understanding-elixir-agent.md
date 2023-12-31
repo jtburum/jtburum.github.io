@@ -38,4 +38,4 @@ If the client were to pass in a function that does a lot of processing the `Agen
 <h3>Are Agents usually supervised or unsupervised?</h3>
 Supervised. An `Agent` is usually started under a `Supervisor`.
 
-- [More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

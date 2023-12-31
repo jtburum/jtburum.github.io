@@ -95,5 +95,5 @@ end
 ```
 
 More Ruby posts for you enjoyment:
-- [Redirect to nested resource url in Rails](https://www.devdecks.io/2021-redirect-to-nested-resource-url-rails)
- - [Rails nested resources completed example](https://www.devdecks.io/2021-rails-nested-resources-mvc-complete-example)
+- [Redirect to nested resource url in Rails](https://tinytechtuts.com/2021-redirect-to-nested-resource-url-rails)
+ - [Rails nested resources completed example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example)

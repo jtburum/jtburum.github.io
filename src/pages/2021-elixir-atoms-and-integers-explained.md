@@ -50,5 +50,5 @@ Integer.is_odd(12)
 ```
 
 More Elixir Decks:
-1. [Tuples](https://www.devdecks.io/2021-elixir-tuples-explained)
-2. [List](https://www.devdecks.io/2021-elixir-lists-explained)
+1. [Tuples](https://tinytechtuts.com/2021-elixir-tuples-explained)
+2. [List](https://tinytechtuts.com/2021-elixir-lists-explained)

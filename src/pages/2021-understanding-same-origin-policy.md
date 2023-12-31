@@ -44,4 +44,4 @@ A domain/origin acts as it's own independent domain so one subdomain will not pa
 <h3>What is the responsibility of the Same-origin Policy?</h3>
 It prevents webpages rendered from one server from accepting read/get requests from any other server, ex. https://stackoverflow.com's server can't make a request to https://hankerrank.com. If you are on a webpage then you can also make additional read requests to the server that issued the webpage unless there is a CORS mechanism in place. Write/post requests do not have SOP restrictions.
 
-- [More security concepts decks](https://www.devdecks.io/tags/elixir-deck)
+- [More security concepts decks](https://tinytechtuts.com/tags/elixir-deck)

@@ -46,7 +46,7 @@ import sitemap from "@astrojs/sitemap";
 // https://astro.build/config
 export default defineConfig({
   integrations: [sitemap({
-    filter: (page) => page == 'https://devdecks.io/tiny-tech-tuts/' || page == 'https://devdecks.io/', 
+    filter: (page) => page == 'https://tinytechtuts.com/tiny-tech-tuts/' || page == 'https://tinytechtuts.com/', 
   })],
   site: "https://devdecks.io",
   redirects: {

@@ -36,4 +36,4 @@ type InformationConnection {
 ```
 
 For your continued enjoyment:
-- [How to set default values in Graphql Schemas](https://www.devdecks.io/2021-graphql-schema-default-values)
+- [How to set default values in Graphql Schemas](https://tinytechtuts.com/2021-graphql-schema-default-values)

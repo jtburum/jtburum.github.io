@@ -32,4 +32,4 @@ query = from s in "stores",
 Repo.all(query)
 ```
 
-If you found this post helpful you might also like [Ecto: using SQL for a query](https://www.devdecks.io/2022-ecto-direct-sql-query).
+If you found this post helpful you might also like [Ecto: using SQL for a query](https://tinytechtuts.com/2022-ecto-direct-sql-query).

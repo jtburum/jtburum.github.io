@@ -45,4 +45,4 @@ children = [ %{ id: ChildProcess, start: {ChildProcess, :start_link, [[:initial_
 <h3>What is a supervision tree?</h3>
 It is a hierarchy of process supervisors. This means that a process that is under supervision can also have its own child processes that it supervises.
 
-- [More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

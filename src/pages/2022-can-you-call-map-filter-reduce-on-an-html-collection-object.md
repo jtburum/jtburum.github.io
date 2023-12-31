@@ -29,4 +29,4 @@ collection.reduce()
 collection.map()
 ```
 
-For more filtering joy, I wrote a post on retrieving and filtering previously executed [mac commands](https://www.devdecks.io/2021-how-to-get-and-filter-previously-executed-commands-macos).
+For more filtering joy, I wrote a post on retrieving and filtering previously executed [mac commands](https://tinytechtuts.com/2021-how-to-get-and-filter-previously-executed-commands-macos).

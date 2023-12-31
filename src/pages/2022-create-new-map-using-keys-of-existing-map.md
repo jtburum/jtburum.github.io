@@ -36,5 +36,5 @@ And because Elixir is immutable we still have access to the original object, unc
 }
 ```
 
-Now if you need to remove multiple k/v pairs there is a `drop` function on the `Map` module that can be utilized. I review that [here](https://www.devdecks.io/2022-remove-single-key-value-pair-from-map).
+Now if you need to remove multiple k/v pairs there is a `drop` function on the `Map` module that can be utilized. I review that [here](https://tinytechtuts.com/2022-remove-single-key-value-pair-from-map).
 

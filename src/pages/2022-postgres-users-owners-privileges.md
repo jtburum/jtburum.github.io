@@ -9,7 +9,7 @@
 
 In Postgres and similarly in other SQL databases users of a database have a certain level of access depending on the privileges set for the particular user. The reason you would want to have multiple users in a postgres table is to create different levels of access for each particular user. 
 
-To get a list of all users of a postgres database you will first need to access the database server using [psql](https://www.devdecks.io/2022-pg_ctl-vs-psql) and then you can run the command `\du`, which will give you a list of users and the roles / privileges.
+To get a list of all users of a postgres database you will first need to access the database server using [psql](https://tinytechtuts.com/2022-pg_ctl-vs-psql) and then you can run the command `\du`, which will give you a list of users and the roles / privileges.
 
 The different privileges that exist in postgres include:
 SELECT, INSERT, UPDATE, DELETE, TRUNCATE, REFERENCES, TRIGGER, CREATE, CONNECT, TEMPORARY, EXECUTE, and USAGE.
@@ -34,4 +34,4 @@ To create a new user for an existing database in postgres use the CREATE USER co
 CREATE USER new_user;
 ```
 
-Do databases make you dancey? Maybe you'd enjoy dancing to the beat of [postgres stored procedures](https://www.devdecks.io/2022-create-and-execute-stored-procedure-postgres){:target="_blank:}.
+Do databases make you dancey? Maybe you'd enjoy dancing to the beat of [postgres stored procedures](https://tinytechtuts.com/2022-create-and-execute-stored-procedure-postgres){:target="_blank:}.

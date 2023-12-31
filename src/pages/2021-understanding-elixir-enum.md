@@ -53,4 +53,4 @@ It accepts an enumerable and a function as arguments. It returns a new Enum cont
 ```
 
 For your continued enjoyment:
-- [More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

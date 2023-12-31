@@ -21,4 +21,4 @@ Enum.fetch([2, 3, 4], 0)
 => {:ok, 2}
 ```
 
-I have also written another `Enum` post on [iterating a List with_index in elixir](https://www.devdecks.io/2022-list-with-index-in-elixir-example) if you're interested.
+I have also written another `Enum` post on [iterating a List with_index in elixir](https://tinytechtuts.com/2022-list-with-index-in-elixir-example) if you're interested.

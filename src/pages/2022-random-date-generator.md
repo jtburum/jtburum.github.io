@@ -20,7 +20,7 @@ DateTime.now - (rand * 365)
 ```
 
 Further reading:
-- [Creating a table with non id primary key in Rails](https://www.devdecks.io/2021-creating-a-table-with-different-primary-key-rails)
-- [Migrating behavior from instance based to class based](https://www.devdecks.io/2021-ruby-instance-based-to-classed-based-behavior)
+- [Creating a table with non id primary key in Rails](https://tinytechtuts.com/2021-creating-a-table-with-different-primary-key-rails)
+- [Migrating behavior from instance based to class based](https://tinytechtuts.com/2021-ruby-instance-based-to-classed-based-behavior)
 
 

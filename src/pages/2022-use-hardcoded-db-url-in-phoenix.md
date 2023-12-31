@@ -30,4 +30,4 @@ config :music_db, MusicDB.Repo,
 url: "postgres://postgres:postgres@localhost/store_db"
 ```
 
-If you enjoyed this post you may also enjoy [Postgres: create and execute database view](https://www.devdecks.io/2022-create-and-execute-db-view-postgres){:target="_blank}
+If you enjoyed this post you may also enjoy [Postgres: create and execute database view](https://tinytechtuts.com/2022-create-and-execute-db-view-postgres){:target="_blank}

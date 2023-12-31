@@ -28,4 +28,4 @@ Tuple.append(four_elem_tuple, "five")
 => {"one", "two", "three", "four", "five"}
 ```
 
-In [another post](https://www.devdecks.io/2022-remove-element-from-tuple-at-an-index) I review how to delete an element from a tuple at a given index position.
+In [another post](https://tinytechtuts.com/2022-remove-element-from-tuple-at-an-index) I review how to delete an element from a tuple at a given index position.

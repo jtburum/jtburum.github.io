@@ -37,5 +37,5 @@ NewClass.new.updater
 In the example above the `NewClass` object makes two calls to `update_data` which returns the object in question. Each of those calls passes a different parameter to the method, but the object does not get updated with the different data after it is memoized during the first method call.
 
 For your continued enjoyment:
-- [How to memoize a conditional in Ruby](https://www.devdecks.io/2021-memoizing-conditionals-in-ruby)
-- [How not to memoize in Ruby](https://www.devdecks.io/2021-when-not-to-memoize-in-ruby)
+- [How to memoize a conditional in Ruby](https://tinytechtuts.com/2021-memoizing-conditionals-in-ruby)
+- [How not to memoize in Ruby](https://tinytechtuts.com/2021-when-not-to-memoize-in-ruby)

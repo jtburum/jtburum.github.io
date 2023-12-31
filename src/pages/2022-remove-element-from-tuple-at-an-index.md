@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-In a [previous example](https://www.devdecks.io/2022-add-element-to-tuple-at-an-index) we worked to add an element to a tuple at an index position. In this post we will handle the case of needing to remove that same element. 
+In a [previous example](https://tinytechtuts.com/2022-add-element-to-tuple-at-an-index) we worked to add an element to a tuple at an index position. In this post we will handle the case of needing to remove that same element. 
 
 First lets define the tuple. In the tuple below there is an item that doesn't match the string format of the rest of the elements, we'll remove that one.
 ```

@@ -53,7 +53,7 @@ Session.any_instance
 .returns(account)
 ``` 
 
-Tip: If you are working with JavaScript and want an example on working with Jest [tests](https://www.devdecks.io/2021-jest-testing-cheatsheet) and [mocks](https://www.devdecks.io/2021-mock-custom-react-hooks-with-jest) I wrote previous on that [here](https://www.devdecks.io/2021-jest-testing-cheatsheet) and [here](https://www.devdecks.io/2021-mock-custom-react-hooks-with-jest)
+Tip: If you are working with JavaScript and want an example on working with Jest [tests](https://tinytechtuts.com/2021-jest-testing-cheatsheet) and [mocks](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest) I wrote previous on that [here](https://tinytechtuts.com/2021-jest-testing-cheatsheet) and [here](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest)
 
 <h3>Making async controller requests</h3>
 Tip: You can indicate that an HTTP request should be made asynchronously using the option `xhr: true`
@@ -145,6 +145,6 @@ Tip: For the stub to work the URL has to match exactly so make sure your query p
 
 
 Similar posts:
-- [Same Database table parent/child relationship using Rails](https://www.devdecks.io/2021-same-db-table-parent-child-relationship-rails)
- - [Rails nested resources completed example](https://www.devdecks.io/2021-rails-nested-resources-mvc-complete-example)
+- [Same Database table parent/child relationship using Rails](https://tinytechtuts.com/2021-same-db-table-parent-child-relationship-rails)
+ - [Rails nested resources completed example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example)
  

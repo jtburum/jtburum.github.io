@@ -28,4 +28,4 @@ You will want to use a URL path (domain.com/url/path) instead of a subdomain (su
 <h3>What is a non wildcard subdomain?</h3>
 Here you would add a DNS CNAME record with your hosting provider for each subdomain you needed. In this case blog.devdecks and jobs.devdecks would have their own CNAME record, all other subdomains would not be recognized by the server.
 
-- [More decks on urls](https://www.devdecks.io/tags/elixir-deck)
+- [More decks on urls](https://tinytechtuts.com/tags/elixir-deck)

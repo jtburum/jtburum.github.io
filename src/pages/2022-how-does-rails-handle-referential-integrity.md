@@ -29,6 +29,6 @@ end
 And we can also add the `dependent: :destroy` option to our models to destroy child objects when parent objects are destroyed. But Rails also gives you the option of adding the database level contraint to guarantee referential integrity and you can do that by `add_foreign_key :products, :users`.
 
 Similar posts:
-- [Rails integration testing cheatsheet](https://www.devdecks.io/2022-rails-integration-testing-cheatsheet)
- - [Rails nested resources MVC complete example](https://www.devdecks.io/2021-rails-nested-resources-mvc-complete-example)
+- [Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet)
+ - [Rails nested resources MVC complete example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example)
  

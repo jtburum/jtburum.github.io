@@ -24,6 +24,6 @@ I hope this helped! Have a good one!
 
 
 Check out another post:
-- [How to handle Ecto associations with UUIDs](https://devdecks.io/2023-ecto-associations-with-uuids)
+- [How to handle Ecto associations with UUIDs](https://tinytechtuts.com/2023-ecto-associations-with-uuids)
 
 

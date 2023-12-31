@@ -20,4 +20,4 @@ Query parameters are most often used to filter for resources within a collection
 <h3>When would you use URL Path vs Subdomain?</h3>
 You will want to use a URL path instead of a subdomain when the resource is specific to the business function of your main application. Subdomains are used to identify different functions from the core application or for different organizations accessing your application.
 
-- [More decks on urls](https://www.devdecks.io/tags/elixir-deck)
+- [More decks on urls](https://tinytechtuts.com/tags/elixir-deck)

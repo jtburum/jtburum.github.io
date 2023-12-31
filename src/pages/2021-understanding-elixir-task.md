@@ -42,4 +42,4 @@ Yes. You can map over a list of `Task`s and provide the `Task.await` function as
 Not often. A `Task` is used for one specific action.
 
 For your continued enjoyment:
-- [More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

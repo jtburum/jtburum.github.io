@@ -12,7 +12,7 @@ When you see two colons before a constant reference in Ruby, like `::User` that 
 It will not look up Admin::User even if you make a reference to `::User` from within the admin namespace.
 
 Further reading:
-- [How to render a collection of turbo frames](https://www.devdecks.io/2022-rendering-a-collection-of-turbo-frames)
-- [How to render turbo frames within a multi-part form](https://www.devdecks.io/2022-rendering-a-turbo-frame-inside-a-form)
+- [How to render a collection of turbo frames](https://tinytechtuts.com/2022-rendering-a-collection-of-turbo-frames)
+- [How to render turbo frames within a multi-part form](https://tinytechtuts.com/2022-rendering-a-turbo-frame-inside-a-form)
 
 

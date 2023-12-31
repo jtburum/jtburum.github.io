@@ -15,7 +15,7 @@ This is important is Google's eyes because it gives more detail about the conten
 
 <h3>2) Add unique meta tags and page titles for each page.</h3>
 
-I wrote a post about how to accomplish this in a Phoenix app here [here](https://www.devdecks.io/2020-seo-in-elixir).
+I wrote a post about how to accomplish this in a Phoenix app here [here](https://tinytechtuts.com/2020-seo-in-elixir).
 
 <h3>3) More content, fewer pages.</h3>
 
@@ -24,7 +24,7 @@ Query parameters were a [bad choice](https://www.searchenginejournal.com/technic
 I made the decision to add the question text for each decks card as a query parameter, and update that query parameter each time you changed to a new card in the app. I thought there were two benefits here:
 1.  If someone came to DevDecks from a link with the query parameter you could go right to that question in the deck. Here's a no-longer-working example:
 ```html
-https://www.devdecks.io/decks/52e4f834-a0a3-4c01-8ffb-c581d37de207/card?cardContent=How%20does%20a%20DOM/Client%20side%20XSS%20attack%20work?
+https://tinytechtuts.com/decks/52e4f834-a0a3-4c01-8ffb-c581d37de207/card?cardContent=How%20does%20a%20DOM/Client%20side%20XSS%20attack%20work?
 ```
 2. I thought it might help with SEO. My thinking was that if the url content matched what a user was searching for that my content would get an edge over the same quality content without the query param. The problem is each question and answer is probably not enough content for Google to consider the page as quality content and Google identifies pages as unique if the URL is unique, including query params. I got rid of the query params for each card.
 
@@ -79,9 +79,9 @@ end
 
 <h3>5) Add a sitemap.xml file</h3>
 
-I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that [here](https://www.devdecks.io/2020-add-sitemap-to-phoenix-elixir-project).
+I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that [here](https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project).
 
-After creating the sitemap I followed the steps outlined [here](https://hdwebpros.com/blog/how-often-does-google-update-its-search-results.html#:~:text=How%20Long%20Will%20It%20Take,four%20days%20and%20four%20weeks) and added Google Analytics, created a new account with Google's Search Console, and submitted [my sitemap](https://www.devdecks.io/sitemap.xml) for reindexing by providing a link to my `sitemap.xml` page in the search console. I will do this periodically as my site's content grows.
+After creating the sitemap I followed the steps outlined [here](https://hdwebpros.com/blog/how-often-does-google-update-its-search-results.html#:~:text=How%20Long%20Will%20It%20Take,four%20days%20and%20four%20weeks) and added Google Analytics, created a new account with Google's Search Console, and submitted [my sitemap](https://tinytechtuts.com/sitemap.xml) for reindexing by providing a link to my `sitemap.xml` page in the search console. I will do this periodically as my site's content grows.
 
 That is all I have for now. I will be updating the post for any other changes I make to DevDecks on this topic.
 

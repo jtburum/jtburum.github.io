@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This was something I built for the [svg filter tool](https://www.devdecks.io/tools/svg-color-changer) on this site.
+This was something I built for the [svg filter tool](https://tinytechtuts.com/tools/svg-color-changer) on this site.
 
 The steps to accomplish this:
 - get the elements into a collection.
@@ -37,4 +37,4 @@ filterSvgCodeSnippets.map((snippet) => {
 ```
 
 Similar post
-- [Differences between window assign, open, replace, and href= in JS](https://www.devdecks.io/2021-windowlocation-open-replace-assign-differences)
+- [Differences between window assign, open, replace, and href= in JS](https://tinytechtuts.com/2021-windowlocation-open-replace-assign-differences)

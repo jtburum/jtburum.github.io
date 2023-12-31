@@ -19,4 +19,4 @@ In elixir it is handled differently, the most common and frequently used way bei
 if(condition, do: truthy_handler, else: falsy_handler)
 ```
 
-If you like conditions, you might also enjoy the post [Get the index position from element in a matched condition](https://www.devdecks.io/2022-get-index-of-a-matched-conditions-element).
+If you like conditions, you might also enjoy the post [Get the index position from element in a matched condition](https://tinytechtuts.com/2022-get-index-of-a-matched-conditions-element).

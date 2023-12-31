@@ -53,4 +53,4 @@ Or connect to a server on a different host:
 psql -h host -d database_name -U user_name -W	
 ```
 
-Did this post make your day a little brighter? Why not take a swim in this other postgres article about [postgres with Homebrew](https://www.devdecks.io/2022-start-stop-restart-postgres-redis-homebrew) or learn how to access [table metadata](https://www.devdecks.io/2022-get-column-names-and-types-postgres) if that's more your cup of liquid iv.
+Did this post make your day a little brighter? Why not take a swim in this other postgres article about [postgres with Homebrew](https://tinytechtuts.com/2022-start-stop-restart-postgres-redis-homebrew) or learn how to access [table metadata](https://tinytechtuts.com/2022-get-column-names-and-types-postgres) if that's more your cup of liquid iv.

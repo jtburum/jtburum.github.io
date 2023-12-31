@@ -21,5 +21,5 @@ Enum.find_index(["football", "baseball", "hockey", "hockey"], fn sport -> sport 
 ```
 
 Further reading:
-- [Rendering a LiveView template outside of router](https://www.devdecks.io/2022-rendering-liveview-template-outside-of-router)
-- [How to paginate an in memory array](https://www.devdecks.io/2022-in-memory-pagination-by-example)
+- [Rendering a LiveView template outside of router](https://tinytechtuts.com/2022-rendering-liveview-template-outside-of-router)
+- [How to paginate an in memory array](https://tinytechtuts.com/2022-in-memory-pagination-by-example)

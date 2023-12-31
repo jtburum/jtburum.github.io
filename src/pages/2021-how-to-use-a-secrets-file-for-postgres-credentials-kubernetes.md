@@ -92,9 +92,9 @@ spec:
 There is a lot of extra data in there unrelated to the secrets accessors, but I figured it would be more relevant to post the entire file. The secrets as you can see are accessed under `spec.template.spec.containers.env-name.valueFrom.secretKeyRef.key`. You mostly need to remember to pull secrets using `valueFrom.secretKeyRef.key`.
 
 Similar posts:
-- [When to use which service type in Kubernetes](https://www.devdecks.io/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
-- [Connecting Kubernetes Deployments to Pods](https://www.devdecks.io/2021-connecting-pods-to-deployments-kubernetes)
-- [How to view a Kubernetes pods IP address](https://www.devdecks.io/2021-how-to-view-kubernetes-pod-ip-address)
-- [How to view the status data in a Kubernetes Deployment](https://www.devdecks.io/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
-- [Create your first Rails app cluster with Kubernetes and Docker](https://www.devdecks.io/2021-create-your-first-kubernetes-rails-app-pt1)
-- [Kubernetes kubectl commands for newbies](https://www.devdecks.io/2021-kubernetes-kubectl-commands-for-newbies)
+- [When to use which service type in Kubernetes](https://tinytechtuts.com/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
+- [Connecting Kubernetes Deployments to Pods](https://tinytechtuts.com/2021-connecting-pods-to-deployments-kubernetes)
+- [How to view a Kubernetes pods IP address](https://tinytechtuts.com/2021-how-to-view-kubernetes-pod-ip-address)
+- [How to view the status data in a Kubernetes Deployment](https://tinytechtuts.com/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
+- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
+- [Kubernetes kubectl commands for newbies](https://tinytechtuts.com/2021-kubernetes-kubectl-commands-for-newbies)

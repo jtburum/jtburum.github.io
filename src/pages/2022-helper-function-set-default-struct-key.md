@@ -23,4 +23,4 @@ end
 
 Note if you're trying to set a default for a schema based struct like with Ecto or Absinthe then those types libraries typically allow you to define a default for a "field" in the struct as a keyword list option `default: "some default string"`.
 
-If you enjoyed this post you may also enjoy [Update what Ecto considers nil / empty](https://www.devdecks.io/2022-update-what-ecto-considers-empty).
+If you enjoyed this post you may also enjoy [Update what Ecto considers nil / empty](https://tinytechtuts.com/2022-update-what-ecto-considers-empty).

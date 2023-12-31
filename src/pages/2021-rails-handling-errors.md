@@ -73,9 +73,9 @@ Account.find_by(id: 1234)
 ```
 
 More Ruby cheatsheets:
-[Ruby HTTP gem](https://www.devdecks.io/2021-ruby-http-gem-cheatsheet),
-[Rails params](https://www.devdecks.io/2021-rails-params-cheatsheet),
-[Rails DB encryption](https://www.devdecks.io/2021-rails-db-encryption-cheetsheet)
+[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet),
+[Rails params](https://tinytechtuts.com/2021-rails-params-cheatsheet),
+[Rails DB encryption](https://tinytechtuts.com/2021-rails-db-encryption-cheetsheet)
 
 <br />
 Resources I found useful when writing this:

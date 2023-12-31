@@ -15,4 +15,4 @@ echo -n 'blueballoons' | base64
 The `echo` commands job is to output the string that is passed to it as an argument. By passing the `-n` flag we do not get the trailing newline in our output. Then we use the `|` to pipe the output to `base64` which base64 encode the string, in this case "blueballoons".
 
 Similar post:
-- [How to get and filter a list of previously executed commands on macOS](https://www.devdecks.io/2021-how-to-get-and-filter-previously-executed-commands-macos)
+- [How to get and filter a list of previously executed commands on macOS](https://tinytechtuts.com/2021-how-to-get-and-filter-previously-executed-commands-macos)

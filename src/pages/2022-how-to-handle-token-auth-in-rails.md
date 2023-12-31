@@ -106,6 +106,6 @@ This is a good example of a refactoring opportunity. If your application has dif
 
 
 Similar posts:
-- [Rails integration testing cheatsheet](https://www.devdecks.io/2022-rails-integration-testing-cheatsheet)
- - [Rails nested resources MVC complete example](https://www.devdecks.io/2021-rails-nested-resources-mvc-complete-example)
+- [Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet)
+ - [Rails nested resources MVC complete example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example)
  

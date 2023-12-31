@@ -93,4 +93,4 @@ Yes. In the example below the variable `t` is a variable used as a key for the v
 "dog"
 ```
 
-[More Elixir lang decks](https://www.devdecks.io/tags/elixir-deck)
+[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

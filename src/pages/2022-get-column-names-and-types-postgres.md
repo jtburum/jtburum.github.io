@@ -25,4 +25,4 @@ SELECT column_name, data_type FROM information_schema.columns WHERE table_name='
 
 This query accesses a special table in postgres called information_schema and queries for the column_name and data_type on the users table.
 
-If you thought that article was awesome, wait until you read [Postgres pg_ctl vs psql](https://www.devdecks.io/2022-pg_ctl-vs-psql) it'll knock your socks off. If you're not wearing any socks then don't even bother reading it.
+If you thought that article was awesome, wait until you read [Postgres pg_ctl vs psql](https://tinytechtuts.com/2022-pg_ctl-vs-psql) it'll knock your socks off. If you're not wearing any socks then don't even bother reading it.

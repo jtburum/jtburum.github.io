@@ -53,7 +53,7 @@ Find your image locally through the command `docker image ls`.
 
 <h3>Push the local Docker Image to Docker Hub</h3>
 
-You will need to push your image to a Docker Repository, for this tutorial that will be Docker Hub. I have outlined those steps in [this post](https://www.devdecks.io/2021-pushing-docker-image-to-dockerhub-tutorial).
+You will need to push your image to a Docker Repository, for this tutorial that will be Docker Hub. I have outlined those steps in [this post](https://tinytechtuts.com/2021-pushing-docker-image-to-dockerhub-tutorial).
 
 <h3>Install packages needed for local Kubernetes clustering</h3>
 
@@ -143,4 +143,4 @@ This command will link the service you created to an IP address reachable from y
 After running this command minikube will open the app for you automatically and you should see  the default rails page rendered. If that is the case then you have successfully deployed your first K8s cluster 🎉🎉.
 
 Similar post:
-- [How to view the status data in a Kubernetes Deployment](https://www.devdecks.io/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
+- [How to view the status data in a Kubernetes Deployment](https://tinytechtuts.com/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
