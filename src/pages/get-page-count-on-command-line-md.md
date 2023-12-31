@@ -1,9 +1,9 @@
 ---
-  title: "Get a count of all .md files on the command line"
+  title: "Get a count of all .md files in a directory on the command line"
   description: "Get a count of all .md files on the command line"
   tags: ["shell", "script"]
   pubDate: "2023-12-29"
-  slug: "visualizing-database-schema-using-ecto"
+  slug: "Get-a-count-of-all-.md-files-on-the-command-line"
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
@@ -22,8 +22,5 @@ The above script will return a count of all files with the `.md` file extension 
 
 I hope this helped! Have a good one!
 
-
 Check out another post:
 - [How to handle Ecto associations with UUIDs](https://tinytechtuts.com/2023-ecto-associations-with-uuids)
-
-

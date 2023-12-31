@@ -4,14 +4,14 @@
 <h3>1) Have one H1 heading tag at the top of each page.</h3>
 <p>This is important is Google’s eyes because it gives more detail about the content that will follow on the remainder of the page. There’s advice on the web not to have more than one </p><h1> tag on each page and I follow that as well.<p></p>
 </h1><h3>2) Add unique meta tags and page titles for each page.</h3>
-<p>I wrote a post about how to accomplish this in a Phoenix app here <a href="https://www.devdecks.io/2020-seo-in-elixir">here</a>.</p>
+<p>I wrote a post about how to accomplish this in a Phoenix app here <a href="https://tinytechtuts.com/2020-seo-in-elixir">here</a>.</p>
 <h3>3) More content, fewer pages.</h3>
 <p>Query parameters were a <a href="https://www.searchenginejournal.com/technical-seo/url-parameter-handling">bad choice</a>.</p>
 <p>I made the decision to add the question text for each decks card as a query parameter, and update that query parameter each time you changed to a new card in the app. I thought there were two benefits here:</p>
 <ol>
 <li>If someone came to DevDecks from a link with the query parameter you could go right to that question in the deck. Here’s a no-longer-working example:</li>
 </ol>
-<pre is:raw="" class="astro-code github-dark" style="background-color: #24292e; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color: #E1E4E8">https://www.devdecks.io/decks/52e4f834-a0a3-4c01-8ffb-c581d37de207/card?cardContent=How%20does%20a%20DOM/Client%20side%20XSS%20attack%20work?</span></span></code></pre>
+<pre is:raw="" class="astro-code github-dark" style="background-color: #24292e; overflow-x: auto;" tabindex="0"><code><span class="line"><span style="color: #E1E4E8">https://tinytechtuts.com/decks/52e4f834-a0a3-4c01-8ffb-c581d37de207/card?cardContent=How%20does%20a%20DOM/Client%20side%20XSS%20attack%20work?</span></span></code></pre>
 <ol start="2">
 <li>I thought it might help with SEO. My thinking was that if the url content matched what a user was searching for that my content would get an edge over the same quality content without the query param. The problem is each question and answer is probably not enough content for Google to consider the page as quality content and Google identifies pages as unique if the URL is unique, including query params. I got rid of the query params for each card.</li>
 </ol>
@@ -57,8 +57,8 @@
 <span class="line"><span style="color: #E1E4E8">  </span><span style="color: #F97583">end</span></span>
 <span class="line"><span style="color: #F97583">end</span></span></code></pre>
 <h3>5) Add a sitemap.xml file</h3>
-<p>I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that <a href="https://www.devdecks.io/2020-add-sitemap-to-phoenix-elixir-project">here</a>.</p>
-<p>After creating the sitemap I followed the steps outlined <a href="https://hdwebpros.com/blog/how-often-does-google-update-its-search-results.html#:~:text=How%20Long%20Will%20It%20Take,four%20days%20and%20four%20weeks">here</a> and added Google Analytics, created a new account with Google’s Search Console, and submitted <a href="https://www.devdecks.io/sitemap.xml">my sitemap</a> for reindexing by providing a link to my <code>sitemap.xml</code> page in the search console. I will do this periodically as my site’s content grows.</p>
+<p>I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that <a href="https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project">here</a>.</p>
+<p>After creating the sitemap I followed the steps outlined <a href="https://hdwebpros.com/blog/how-often-does-google-update-its-search-results.html#:~:text=How%20Long%20Will%20It%20Take,four%20days%20and%20four%20weeks">here</a> and added Google Analytics, created a new account with Google’s Search Console, and submitted <a href="https://tinytechtuts.com/sitemap.xml">my sitemap</a> for reindexing by providing a link to my <code>sitemap.xml</code> page in the search console. I will do this periodically as my site’s content grows.</p>
 <p>That is all I have for now. I will be updating the post for any other changes I make to DevDecks on this topic.</p>
 <br>
 Resources I found useful when building this:
