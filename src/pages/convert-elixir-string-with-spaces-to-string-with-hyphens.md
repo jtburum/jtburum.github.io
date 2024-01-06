@@ -17,9 +17,12 @@ I needed help converting an Elixir string with spaces to a string with hyphens a
 
 In this example:
 
-String.replace(~r/\s+/, "-"): Replaces spaces with hyphens using a regular expression.
-String.downcase(): Converts the string to lowercase.
+`String.replace(~r/\s+/, "-")`: Replaces spaces with hyphens using a regular expression.
+`String.downcase()`: Converts the string to lowercase.
+
 The resulting converted_string will be:
+```"elixir-string-to-hyphens"```
+
 
 I hope this helped! Have a good one!
 
