@@ -8,6 +8,6 @@ export default defineConfig({
   site: "https://tinytechtuts.com",
   trailingSlash: "never",
   buildOptions: {
-    trailingSlash: false
+    trailingSlash: "never"
   }
 });
