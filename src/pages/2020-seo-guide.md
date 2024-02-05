@@ -15,7 +15,7 @@ This is important is Google's eyes because it gives more detail about the conten
 
 <h3>2) Add unique meta tags and page titles for each page.</h3>
 
-I wrote a post about how to accomplish this in a Phoenix app here [here](https://tinytechtuts.com/2020-seo-in-elixir).
+I wrote a post about how to accomplish this in a Phoenix app here [here](https://tinytechtuts.com/2020-seo-in-elixir/).
 
 <h3>3) More content, fewer pages.</h3>
 
@@ -79,7 +79,7 @@ end
 
 <h3>5) Add a sitemap.xml file</h3>
 
-I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that [here](https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project).
+I also added a sitemap for Google to be able to craw my site more easily. I added a guide for that [here](https://tinytechtuts.com/2020-add-sitemap-to-phoenix-elixir-project/).
 
 After creating the sitemap I followed the steps outlined [here](https://hdwebpros.com/blog/how-often-does-google-update-its-search-results.html#:~:text=How%20Long%20Will%20It%20Take,four%20days%20and%20four%20weeks) and added Google Analytics, created a new account with Google's Search Console, and submitted [my sitemap](https://tinytechtuts.com/sitemap.xml) for reindexing by providing a link to my `sitemap.xml` page in the search console. I will do this periodically as my site's content grows.
 

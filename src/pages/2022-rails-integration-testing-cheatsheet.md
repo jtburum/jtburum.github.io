@@ -53,7 +53,7 @@ Session.any_instance
 .returns(account)
 ``` 
 
-Tip: If you are working with JavaScript and want an example on working with Jest [tests](https://tinytechtuts.com/2021-jest-testing-cheatsheet) and [mocks](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest) I wrote previous on that [here](https://tinytechtuts.com/2021-jest-testing-cheatsheet) and [here](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest)
+Tip: If you are working with JavaScript and want an example on working with Jest [tests](https://tinytechtuts.com/2021-jest-testing-cheatsheet/) and [mocks](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest/) I wrote previous on that [here](https://tinytechtuts.com/2021-jest-testing-cheatsheet/) and [here](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest/)
 
 <h3>Making async controller requests</h3>
 Tip: You can indicate that an HTTP request should be made asynchronously using the option `xhr: true`

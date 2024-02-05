@@ -24,4 +24,4 @@ Hash[arr]
 => {:id=>233, :name=>"ruby tuesday", :email=>"ruby@tuesday.com"}
 ```
 
-Looking for more red jewel programming insights? Why not head over to [Ruby [0..-2] explained](https://tinytechtuts.com/2022-ruby-0..-2-explained), or [Dynamically add methods in ruby with define_method](https://tinytechtuts.com/2022-dynamically-add-methods-with-def-method).
+Looking for more red jewel programming insights? Why not head over to [Ruby [0..-2] explained](https://tinytechtuts.com/2022-ruby-0..-2-explained/)

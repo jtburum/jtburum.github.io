@@ -53,5 +53,3 @@ Process pools are a group of long running processes that are waiting to be used.
 1. Each HTTP request spawns a new process using the Cowboy and Ranch libraries. 
 2. Ecto uses a process pool to handle database connections.
 
-For your continued enjoyment:
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

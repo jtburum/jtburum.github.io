@@ -59,5 +59,5 @@ Phishing can be an XSS attack. Phishing occurs when a user is tricked into handi
 If you click on a random link in the comment section of a website that claims to be giving you a gift for $20,000 as a reward for being the millionth viewer of the content and then you click on it and the attacker is able to steal your username and password of the website you came from it could correctly be said that you were a victim of a Phishing attack but it is also correct to say you were the victim of an XSS attack because the attacker had to use XSS to place the comment there to begin with.
 
 More Web Attack/Security Decks:
-1. [Cross Site Request Forgery](https://tinytechtuts.com/2021-cross-site-request-forgery-explained)
-2. [Man In The Middle Attack](https://tinytechtuts.com/2021-man-in-the-middle-attack-explained)
+1. [Cross Site Request Forgery](https://tinytechtuts.com/2021-cross-site-request-forgery-explained/)
+2. [Man In The Middle Attack](https://tinytechtuts.com/2021-man-in-the-middle-attack-explained/)

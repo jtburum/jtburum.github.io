@@ -68,11 +68,3 @@ kubectl get all
 ```
 This command can be used to see all running components in a K8's environment
 
-Similar posts:
-- [How to use a secrets file for postgres credentials using Kubernetes](https://tinytechtuts.com/2021-how-to-use-a-secrets-file-for-postgres-credentials-kubernetes)
-- [When to use which service type in Kubernetes](https://tinytechtuts.com/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
-- [How to view a Kubernetes pods IP address](https://tinytechtuts.com/2021-how-to-view-kubernetes-pod-ip-address)
-- [How to view the status data in a Kubernetes Deployment](https://tinytechtuts.com/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
-- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
-- [Connecting Kubernetes Deployments to Pods](https://tinytechtuts.com/2021-connecting-pods-to-deployments-kubernetes)
-- [Connecting Kubernetes Services to Deployments](https://tinytechtuts.com/2021-connecting-services-to-deployments-kubernetes)

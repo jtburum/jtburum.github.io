@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-To accomplish this task you will first need to [convert the HTMLCollection](https://tinytechtuts.com/2022-can-you-call-map-filter-reduce-on-an-html-collection-object) into an Array it is not already.
+To accomplish this task you will first need to [convert the HTMLCollection](https://tinytechtuts.com/2022-can-you-call-map-filter-reduce-on-an-html-collection-object/) into an Array it is not already.
 
 From there you can call the `.filter` function on the array and check to see if the `nodeName` property of each element in the collection matches the condition you are expecting.
 

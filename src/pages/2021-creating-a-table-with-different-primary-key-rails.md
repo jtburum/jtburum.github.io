@@ -26,6 +26,6 @@ end
 ```
 
 Similar posts:
-- [Same Database table parent/child relationship using Rails](https://tinytechtuts.com/2021-same-db-table-parent-child-relationship-rails)
- - [Rails nested resources completed example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example)
+- [Same Database table parent/child relationship using Rails](https://tinytechtuts.com/2021-same-db-table-parent-child-relationship-rails/)
+ - [Rails nested resources completed example](https://tinytechtuts.com/2021-rails-nested-resources-mvc-complete-example/)
 

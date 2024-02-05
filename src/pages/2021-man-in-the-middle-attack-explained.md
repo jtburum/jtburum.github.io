@@ -29,5 +29,5 @@ Yes it does on external network connections such as making an HTTPS request over
 HTTPS connections can still be vulnerable on local networks, like in an office or school that has their systems and computers on the same LAN network.
 
 More Web Attack/Security Decks:
-1. [Cross Site Request Forgery](https://tinytechtuts.com/2021-cross-site-request-forgery-explained)
-2. [Cross Site Scripting](https://tinytechtuts.com/2021-cross-site-scripting-explained)
+1. [Cross Site Request Forgery](https://tinytechtuts.com/2021-cross-site-request-forgery-explained/)
+2. [Cross Site Scripting](https://tinytechtuts.com/2021-cross-site-scripting-explained/)

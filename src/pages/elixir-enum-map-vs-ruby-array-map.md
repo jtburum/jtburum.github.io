@@ -29,5 +29,5 @@ In this Ruby snippet, Array#map achieves the same doubling operation on each ele
 I hope this helped! Have a good one!
 
 Check out another post:
-- [GET A COUNT OF ALL .MD FILES IN A DIRECTORY ON THE COMMAND LINE](https://tinytechtuts.com/get-page-count-on-command-line-md)
+- [GET A COUNT OF ALL .MD FILES IN A DIRECTORY ON THE COMMAND LINE](https://tinytechtuts.com/get-page-count-on-command-line-md/)
 

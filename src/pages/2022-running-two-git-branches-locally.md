@@ -16,9 +16,3 @@ git worktree add ../new-directory branch-name
 ```
 
 Later when you need to remove that worktree you can use the command `git worktree prune` from your original directory (not the newly created directory) which will remove the worktree, or you can use `git worktree remove path-to-worktree`.
-
-Further reading:
-- [Handling system authentication in software engineering](https://tinytechtuts.com/2022-system-auth-in-software-engineering)
-- [How to read Ruby open source code locally](https://tinytechtuts.com/2022-how-to-read-ruby-open-source-code-locally)
-
-

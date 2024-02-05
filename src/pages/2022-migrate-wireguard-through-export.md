@@ -21,4 +21,4 @@ In the new Wireguard app click "import tunnel(s) from file" and select the unzip
 
 You should now be ready to connect to your VPN.
 
-While were on the topic of web routing you might find this article, [DNS system request flow explained](https://tinytechtuts.com/2022-dns-system-request-flow-explained) interesting.
+While were on the topic of web routing you might find this article, [DNS system request flow explained](https://tinytechtuts.com/2022-dns-system-request-flow-explained/) interesting.

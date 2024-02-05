@@ -67,5 +67,3 @@ On the command line execute `mix hello`.
 - `mix phx.routes` - shows a list of routes 
 - `mix phx.server` - starts the application and all servers
 
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

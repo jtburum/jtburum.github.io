@@ -40,4 +40,4 @@ Now you can install the localstack package from within the virtual environment:
 
 Once complete check that you have successfully installed localstack by executing the command `localstack` in your terminal.
 
-Enjoy installing / configuring things? Then you may enjoy the post [Steps to configure Git and remote origin](https://tinytechtuts.com/2022-configure-git-and-remote).
+Enjoy installing / configuring things? Then you may enjoy the post [Steps to configure Git and remote origin](https://tinytechtuts.com/2022-configure-git-and-remote/).

@@ -41,7 +41,7 @@ This starts your server in interactive mode. From there you start Observer, Elix
 Once opened navigate to the applications tab to get a diagram of all running processes, you can try restarting processes to get more hands on experience with their behavior.
 
 More Elixir process posts:
-[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained),
-[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained),
-[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism),
-[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet)
+[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained/),
+[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained/),
+[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism/),
+[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet/)

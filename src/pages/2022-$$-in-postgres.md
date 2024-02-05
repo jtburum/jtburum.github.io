@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-`$$` in postgres is a string literal. Function bodies in postgres (and sql) as plain text strings. Check out this example from a [previous post](https://tinytechtuts.com/2022-create-and-execute-stored-procedure-postgres) on stored procedures:
+`$$` in postgres is a string literal. Function bodies in postgres (and sql) as plain text strings. Check out this example from a [previous post](https://tinytechtuts.com/2022-create-and-execute-stored-procedure-postgres/) on stored procedures:
 
 ```
 create or replace procedure report_status_update(

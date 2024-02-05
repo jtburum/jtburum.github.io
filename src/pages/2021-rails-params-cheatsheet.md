@@ -42,10 +42,4 @@ params.permit(author: [:post_title, tags: [:id, :name]])
 ```
 
 More Ruby cheatsheets:
-[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet),
-[Rails error handling](https://tinytechtuts.com/2021-rails-handling-errors)
-[Rails DB encryption](https://tinytechtuts.com/2021-rails-db-encryption-cheetsheet)
-
-<br />
-Resources I found useful when building this:
-- https://dev.to/flaviabastos/how-to-permit-nested-parameters-in-rails-20cj
+[Rails DB encryption](https://tinytechtuts.com/2021-rails-db-encryption-cheetsheet/)

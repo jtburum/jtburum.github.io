@@ -36,4 +36,4 @@ end
 ```
 
 Similar post:
-[How not to memoize in Ruby](https://tinytechtuts.com/2021-when-not-to-memoize-in-ruby)
+[How not to memoize in Ruby](https://tinytechtuts.com/2021-when-not-to-memoize-in-ruby/)

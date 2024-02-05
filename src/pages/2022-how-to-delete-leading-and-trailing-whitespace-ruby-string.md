@@ -32,5 +32,4 @@ To delete both the leading and trailing whitespace you can use the `strip` metho
 ```
 
 Further reading:
-- [How to iterate a string containing newlines in Ruby](https://tinytechtuts.com/2022-how-to-iterate-string-with-newlines-in-ruby)
-- [How to replace the contents of a string in Ruby](https://tinytechtuts.com/2022-how-to-replace-string-content-in-ruby)
+- [How to replace the contents of a string in Ruby](https://tinytechtuts.com/2022-how-to-replace-string-content-in-ruby/)

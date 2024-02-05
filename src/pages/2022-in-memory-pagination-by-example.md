@@ -11,7 +11,7 @@ This is an example of how you can implement in memory pagination using Elixir an
 
 First I want to address that there are many different methods for handling pagination in an application, but what I wanted to do was paginate an in memory array, or List, in Elixir. This is a list of blog posts gets compiled with my Elixir application on startup. 
 
-The end goal here was to be able to render 10 posts per page with the first ten showing on the homepage of this website and every subsequent ten posts being displayed at https://tinytechtuts.com/page/2, https://tinytechtuts.com/page/3, etc.
+The end goal here was to be able to render 10 posts per page with the first ten showing on the homepage of this website and every subsequent ten posts being displayed at https://tinytechtuts.com/page/2/, https://tinytechtuts.com/page/3/, etc.
 
 To handle this you first need to define two routes in your `router.ex` file. You only need to define two routes if you want the same setup I have (homepage and /page), you could also just have a single route for `/page/:count`.
 

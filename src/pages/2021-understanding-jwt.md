@@ -87,5 +87,3 @@ Consider the difference between a public API vs a private API. A public API is w
 
 <h3>What happens when a JWT is tampered with or altered?</h3>
 It is invalidated. Since the tokens signature is generated from the contents of the header and payload any alterations made to either will cause the token to become corrupted.
-
-- [More security concepts decks](https://tinytechtuts.com/tags/elixir-deck)

@@ -35,4 +35,4 @@ Lastly, you will need to paste that into your Github profile:
 
 After that last step you will be configured to use Git on your local machine and push commits to a remote origin, in this case, Github.
 
-If you found this post juicy, wait until you check out [How to run two different git branches locally](https://tinytechtuts.com/2022-running-two-git-branches-locally)
+If you found this post juicy, wait until you check out [How to run two different git branches locally](https://tinytechtuts.com/2022-running-two-git-branches-locally/)

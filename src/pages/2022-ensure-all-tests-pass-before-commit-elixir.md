@@ -27,4 +27,4 @@ config :pre_commit,
 
 Now when you run `git commit` within this project your formatter will be run and then your test suite, if either of those fail then the commit will not succeed.
 
-If you enjoyed this post you may also enjoy [Helper function for setting default Struct key](https://tinytechtuts.com/2022-helper-function-set-default-struct-key).
+If you enjoyed this post you may also enjoy [Helper function for setting default Struct key](https://tinytechtuts.com/2022-helper-function-set-default-struct-key/).

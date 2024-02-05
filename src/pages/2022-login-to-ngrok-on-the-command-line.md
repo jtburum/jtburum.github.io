@@ -14,5 +14,5 @@ To authenticate your ngrok account this way you will first need login credential
 From now on when you stand up an ngrok tunnel you will be logged into that account and have access to the custom domains and other features created in the account.
 
 Further reading:
-- [DNS system request flow explained](https://tinytechtuts.com/2022-dns-system-request-flow-explained)
-- [How subdomains work with DNS](https://tinytechtuts.com/2022-how-do-subdomains-work-with-dns)
+- [DNS system request flow explained](https://tinytechtuts.com/2022-dns-system-request-flow-explained/)
+- [How subdomains work with DNS](https://tinytechtuts.com/2022-how-do-subdomains-work-with-dns/)

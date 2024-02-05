@@ -52,5 +52,3 @@ It accepts an enumerable and a function as arguments. It returns a new Enum cont
 ["blueish", "yellowish", "redish"]
 ```
 
-For your continued enjoyment:
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

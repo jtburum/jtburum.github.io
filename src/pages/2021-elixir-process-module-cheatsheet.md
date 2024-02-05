@@ -17,10 +17,7 @@ The Process module defines functions for working with processes to handle things
 For other process behavior like creating new processes, linking processes and sending messages I find it more useful to use the `Kernel` functions `spawn`, `spawn_link` and `send`.
 
 More Elixir process posts:
-[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained),
-[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained),
-[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix),
-[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism)
-
-Useful resources:
-- https://www.youtube.com/watch?v=-bCkha6U70o
+[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained/),
+[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained/),
+[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix/),
+[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism/)

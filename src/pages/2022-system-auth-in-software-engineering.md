@@ -33,5 +33,4 @@ It should be noted that you won't always need both a `username` and `password` f
 
 
 Further reading:
-- [Ruby on Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet)
-- [How to generate uuids in a Ruby on Rails application](https://tinytechtuts.com/2022-generating-uuids-in-rails)
+- [Ruby on Rails integration testing cheatsheet](https://tinytechtuts.com/2022-rails-integration-testing-cheatsheet/)

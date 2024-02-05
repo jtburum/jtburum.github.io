@@ -36,10 +36,10 @@ For each new HTTP connection a new process is issued and if that process fails d
 This provides fault tolerance and high availability to your application, because a single error will not propagate to other users of your system. With some VM's other than BEAM you need to handle more issues through written code because multiple requests are handled by the same execution context to achieve concurrency and if one of those requests error then all of the requests in that execution context will fail along with it.
 
 More Elixir process posts:
-[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained),
-[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet),
-[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix),
-[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism)
+[Let it crash explained](https://tinytechtuts.com/2021-let-it-crash-explained/),
+[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet/),
+[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix/),
+[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism/)
 
 Other useful resources:
 - https://elixirforum.com/t/understanding-the-advantages-of-let-it-crash-term/9748

@@ -22,7 +22,5 @@ URI::regexp(%w([http, https])
 ```
 
 Further reading:
-- [Create a custom Mix task by example](https://tinytechtuts.com/2021-create-a-custom-mix-task-by-example)
-- [Connecting Kubernetes Services to Deployments](https://tinytechtuts.com/2021-connecting-services-to-deployments-kubernetes)
-
+- [Create a custom Mix task by example](https://tinytechtuts.com/2021-create-a-custom-mix-task-by-example/)
 

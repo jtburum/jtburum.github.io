@@ -28,5 +28,3 @@ Running the script above will execute the file without writing a compiled BEAM f
 elixirc my_exs_file.ex
 ``` 
 The above will write a compiled BEAM file to disk and you will be able to use the modules/functions you create in your Elixir environment.
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

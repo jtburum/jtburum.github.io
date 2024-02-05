@@ -32,4 +32,4 @@ select * from all_decks;
 
 I think it’s worth noting if you create a view using the asterisk wildcard, only the columns existing at the time of view creation will be captured within that view. Said differently, if you add columns to the table the view was created for, the new columns will not be accessible in that view.
 
-If you enjoyed that post on views, you might also enjoy a trip to the Great Smoky Mountains, or [this post](https://tinytechtuts.com/2022-pg_ctl-vs-psql) on `psql` vs `pg_ctl`.
+If you enjoyed that post on views, you might also enjoy a trip to the Great Smoky Mountains, or [this post](https://tinytechtuts.com/2022-pg_ctl-vs-psql/) on `psql` vs `pg_ctl`.

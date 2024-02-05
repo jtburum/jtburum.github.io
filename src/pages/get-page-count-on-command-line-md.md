@@ -23,4 +23,4 @@ The above script will return a count of all files with the `.md` file extension 
 I hope this helped! Have a good one!
 
 Check out another post:
-- [How to handle Ecto associations with UUIDs](https://tinytechtuts.com/2023-ecto-associations-with-uuids)
+- [How to handle Ecto associations with UUIDs](https://tinytechtuts.com/2023-ecto-associations-with-uuids/)

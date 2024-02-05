@@ -27,5 +27,3 @@ You would use a fragment when you need to scroll the page to a certain section o
 
 <h3>What is the syntax for using a URL fragment?</h3>
 The fragment begins at the # and contains a single value. devdecks.io/about#founding-team or devdecks.io/about#contact-details (these are non functioning examples).
-
-- [More decks on urls](https://tinytechtuts.com/tags/elixir-deck)

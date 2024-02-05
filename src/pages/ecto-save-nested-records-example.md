@@ -91,4 +91,4 @@ Ensure to provide the id for existing child records for the update to succeed.
 I hope this helped! Have a good one!
 
 Check out another post:
-[ELIXIR ENUM.MAP/2 VS RUBY ARRAY#MAP](https://tinytechtuts.com/elixir-enum-map-vs-ruby-array-map)
+[ELIXIR ENUM.MAP/2 VS RUBY ARRAY#MAP](https://tinytechtuts.com/elixir-enum-map-vs-ruby-array-map/)

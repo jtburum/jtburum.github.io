@@ -30,4 +30,4 @@ end
 ```
 
 Similar posts:
-- [Create a new DB record using Ecto](https://tinytechtuts.com/2023-create-db-record-ecto)
+- [Create a new DB record using Ecto](https://tinytechtuts.com/2023-create-db-record-ecto/)

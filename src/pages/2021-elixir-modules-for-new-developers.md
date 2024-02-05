@@ -100,5 +100,3 @@ defmodule User.Profile do
   end 
 end
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

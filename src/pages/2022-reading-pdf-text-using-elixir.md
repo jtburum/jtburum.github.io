@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-Let's say you want a use to be able to upload a PDF and then your system needs to understand what the text was in the PDF they uploaded, good news is there's an Elixir solution for that! It's OCR or Optical Character Recognition which is used to find printed or handwritten text characters inside of an [image](https://tinytechtuts.com/2022-reading-image-text-using-elixir).
+Let's say you want a use to be able to upload a PDF and then your system needs to understand what the text was in the PDF they uploaded, good news is there's an Elixir solution for that! It's OCR or Optical Character Recognition which is used to find printed or handwritten text characters inside of an [image](https://tinytechtuts.com/2022-reading-image-text-using-elixir/).
 
 To quickly test how this works in Elixir we will take three steps:
 1. Install the binaries for tesseract (an OCR engine).

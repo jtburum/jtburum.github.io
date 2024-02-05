@@ -64,5 +64,3 @@ No, but you can find a reference of Stream functions at https://hexdocs.pm/elixi
 [3, 4, 5]
 ```
 
-For your continued enjoyment:
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

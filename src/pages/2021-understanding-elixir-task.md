@@ -41,5 +41,3 @@ Yes. You can map over a list of `Task`s and provide the `Task.await` function as
 <h3>Do Tasks use message passing?</h3>
 Not often. A `Task` is used for one specific action.
 
-For your continued enjoyment:
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

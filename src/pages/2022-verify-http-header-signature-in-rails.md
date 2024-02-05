@@ -62,5 +62,4 @@ end
 ```
 
 Further reading:
-- [When to use polymorphic associations in Rails](https://tinytechtuts.com/2022-when-to-use-polymorphic-associations-rails)
-- [Difference between before_save and before_update and before_create in Rails](https://tinytechtuts.com/2022-before-save-vs-before-update-or-create-in-rails)
+- [When to use polymorphic associations in Rails](https://tinytechtuts.com/2022-when-to-use-polymorphic-associations-rails/)

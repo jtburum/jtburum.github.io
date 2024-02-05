@@ -52,11 +52,11 @@ export default defineConfig({
   redirects: {
     '/2021-elixir-list-to-comma-separated-string': {
       status: 301,
-      destination: 'https://tinytechtuts.com/2021-elixir-list-to-comma-separated-string'
+      destination: 'https://tinytechtuts.com/2021-elixir-list-to-comma-separated-string/'
     },
     '/2021-same-db-table-parent-child-relationship-rails': {
       status: 301,
-      destination: 'https://tinytechtuts.com/2021-same-db-table-parent-child-relationship-rails'
+      destination: 'https://tinytechtuts.com/2021-same-db-table-parent-child-relationship-rails/'
     }
   }
 })

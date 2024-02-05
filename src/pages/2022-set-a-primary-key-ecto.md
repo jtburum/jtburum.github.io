@@ -14,4 +14,4 @@ Sometimes you will want to use a different primary key. Maybe you want to use a 
 field :store_uuid, :uuid, primary_key: true 
 ```
 
-I also wrote another post on DB [primary keys in Rails](https://tinytechtuts.com/2021-creating-a-table-with-different-primary-key-rails) if it helps clear things up you're still uncertain about.
+I also wrote another post on DB [primary keys in Rails](https://tinytechtuts.com/2021-creating-a-table-with-different-primary-key-rails/) if it helps clear things up you're still uncertain about.

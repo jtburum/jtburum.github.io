@@ -52,5 +52,5 @@ The `div` contains a few attributes worth noting:
 - `onClick`, `onKeyUp` - I originally only had an `onClick` handler for this element but if you are going to have a click handler it is a best practice to have a keyboard event that can accomodate the interaction as well for accessibility purposes, so I also included the `onKeyUp` event.
 
 More React posts for you enjoyment:
-- [Jest Testing Cheatsheet](https://tinytechtuts.com/2021-jest-testing-cheatsheet)
- - [Mock React Custom Hooks](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest)
+- [Jest Testing Cheatsheet](https://tinytechtuts.com/2021-jest-testing-cheatsheet/)
+ - [Mock React Custom Hooks](https://tinytechtuts.com/2021-mock-custom-react-hooks-with-jest/)

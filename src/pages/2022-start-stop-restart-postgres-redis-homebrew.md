@@ -38,5 +38,5 @@ brew services kill redis
 brew services kill postgresql
 ```
 
-If you're looking for more Postgres configuration fun, I've got the article of your desires: [How to use a ConfigMap file for postgres environment variables in Kubernetes](https://tinytechtuts.com/2021-how-to-use-a-configmap-file-for-postgres-url-kubernetes).
+If you're looking for more Postgres configuration fun, I've got the article of your desires: [How to use a ConfigMap file for postgres environment variables in Kubernetes](https://tinytechtuts.com/2021-how-to-use-a-configmap-file-for-postgres-url-kubernetes/).
 

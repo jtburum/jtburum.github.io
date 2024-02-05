@@ -44,4 +44,3 @@ Using `Mapset.delete/2`
 <h3>How do you iterate a MapSet?</h3>
 A `MapSet` is an Elixir Enumerable. Like other Enumerables you can use the `Enum` module to iterate the collection ex `Enum.map/2`
 
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

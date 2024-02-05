@@ -92,5 +92,3 @@ Yes. In the example below the variable `t` is a variable used as a key for the v
 => %{t => "dog", :name => "Abby"}[:type] 
 "dog"
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

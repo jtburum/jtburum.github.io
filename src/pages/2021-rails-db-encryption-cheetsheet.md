@@ -52,6 +52,4 @@ User.create(
 ```
 
 More Ruby cheatsheets:
-[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet),
-[Rails params](https://tinytechtuts.com/2021-rails-params-cheatsheet),
-[Rails error handling](https://tinytechtuts.com/2021-rails-handling-errors)
+[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet/)

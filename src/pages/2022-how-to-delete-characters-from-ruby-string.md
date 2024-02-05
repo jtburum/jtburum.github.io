@@ -33,5 +33,4 @@ To delete a full word, I would use [gsub](https://tinytechtuts.com/2022-how-to-r
 
 
 Further reading:
-- [Handling system authentication in software engineering](https://tinytechtuts.com/2022-system-auth-in-software-engineering)
-- [How to iterate a string containing newlines in Ruby](https://tinytechtuts.com/2022-how-to-iterate-string-with-newlines-in-ruby)
+- [How to iterate a string containing newlines in Ruby](https://tinytechtuts.com/2022-how-to-iterate-string-with-newlines-in-ruby/)

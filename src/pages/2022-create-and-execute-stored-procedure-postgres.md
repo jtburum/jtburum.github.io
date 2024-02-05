@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-Similar to the previous post on [database views](https://tinytechtuts.com/2022-create-and-execute-db-view-postgres), stored procedures are something we don’t use quite as frequently in modern software development. They are essentially functions you can execute against a database and like functions they accept parameters to make them dynamic.  
+Similar to the previous post on [database views](https://tinytechtuts.com/2022-create-and-execute-db-view-postgres/), stored procedures are something we don’t use quite as frequently in modern software development. They are essentially functions you can execute against a database and like functions they accept parameters to make them dynamic.  
 
 Stored procedures are not used frequently in modern web development for a variety of reasons but a some of the bigger ones are: 
 They are slow to write

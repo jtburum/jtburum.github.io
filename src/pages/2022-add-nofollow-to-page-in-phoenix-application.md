@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-In a [previous post](https://tinytechtuts.com/2020-seo-in-elixir) I outlined how you can add meta tags to a template in a phoenix application to help with SEO. In this post I will review the functionality that's needed to accomplish setting `<meta>` tags in the `<head>` of your html document. The tags will be used to tell Google and most other search engines that this page should not be included in their index.
+In a [previous post](https://tinytechtuts.com/2020-seo-in-elixir/) I outlined how you can add meta tags to a template in a phoenix application to help with SEO. In this post I will review the functionality that's needed to accomplish setting `<meta>` tags in the `<head>` of your html document. The tags will be used to tell Google and most other search engines that this page should not be included in their index.
 
 `<meta>` tags are usually used to communicate with an outside service regarding something you'd like them to know, in the SEO example you want a search engine to understand more information about the content of the page. For this example we want search engines to know that we don't want this page to be included in their index.
 
@@ -60,5 +60,4 @@ end
 The meta tags shown in this example are directions from [Google's documentation](https://developers.google.com/search/docs/advanced/crawling/block-indexing). It should be noted that these tags should prevent *most* web crawlers from indexing your page, but it's possible that other crawlers handle indexing differently.
 
 Further reading:
-- [Rendering a LiveView template outside of router](https://tinytechtuts.com/2022-rendering-liveview-template-outside-of-router)
-- [How to paginate an in memory array](https://tinytechtuts.com/2022-in-memory-pagination-by-example)
+- [How to paginate an in memory array](https://tinytechtuts.com/2022-in-memory-pagination-by-example/)

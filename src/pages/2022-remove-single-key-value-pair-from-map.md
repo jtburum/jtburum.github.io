@@ -20,5 +20,5 @@ iex(4)> Map.delete(map, :k2)
 %{k1: :v1}
 ```
 
-Now if you need to remove multiple k/v pairs there is a `drop` function on the `Map` module that can be utilized. I review that [here](https://tinytechtuts.com/2022-remove-single-key-value-pair-from-map).
+Now if you need to remove multiple k/v pairs there is a `drop` function on the `Map` module that can be utilized. I review that [here](https://tinytechtuts.com/2022-remove-single-key-value-pair-from-map/).
 

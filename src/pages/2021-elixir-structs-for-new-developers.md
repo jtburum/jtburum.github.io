@@ -67,5 +67,3 @@ defmodule User do
   defstruct [:email, age: 29, name: "Lisa"]
 end
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

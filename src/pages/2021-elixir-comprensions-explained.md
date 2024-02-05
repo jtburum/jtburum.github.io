@@ -7,8 +7,6 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-If you are interested in this question/answer set in flashcard form it is available [here](https://tinytechtuts.com/decks/elixir/comprehensions/a756fa67-e16d-4cf8-b303-1cbee8b22fce)
-
 <h3>What is an Elixir Comprehension?</h3>
 It is another way to loop over an Enumerable, just like the Enum module, only with a cleaner syntax.
 

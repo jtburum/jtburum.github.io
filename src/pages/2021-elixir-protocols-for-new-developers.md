@@ -102,5 +102,3 @@ defimpl First, for: Any do
   def first(_), do: nil 
 end
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

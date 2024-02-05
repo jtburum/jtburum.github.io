@@ -26,5 +26,5 @@ end
 ```
 
 Check out other Phoenix posts:
-- [Route static paths across LiveView and App templates](https://tinytechtuts.com/2020-liveview-conn-vs-socket)
-- [On-page SEO meta-tags and page-title for Phoenix applications](https://tinytechtuts.com/2020-seo-in-elixir)
+- [Route static paths across LiveView and App templates](https://tinytechtuts.com/2020-liveview-conn-vs-socket/)
+- [On-page SEO meta-tags and page-title for Phoenix applications](https://tinytechtuts.com/2020-seo-in-elixir/)

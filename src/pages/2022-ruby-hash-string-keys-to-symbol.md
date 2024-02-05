@@ -29,7 +29,6 @@ But you want the hash to have symbol keys, you can use the `transform_keys` meth
 
 
 Further reading:
-- [Rails error handling cheatsheet](https://tinytechtuts.com/2021-rails-handling-errors)
-- [An example of when to expire a cache key](https://tinytechtuts.com/2021-example-of-when-to-expire-cache-key)
+- [An example of when to expire a cache key](https://tinytechtuts.com/2021-example-of-when-to-expire-cache-key/)
 
 

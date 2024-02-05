@@ -37,5 +37,5 @@ class SomeObject
 end
 ```
 
-Ruby dooby doo, says Scooby at a ruby conference. If you want to make Scoob happy, check out this post [Convert nested array to hash in Ruby](https://tinytechtuts.com/2022-convert-nested-array-to-hash).
+Ruby dooby doo, says Scooby at a ruby conference. If you want to make Scoob happy, check out this post [Convert nested array to hash in Ruby](https://tinytechtuts.com/2022-convert-nested-array-to-hash/).
 

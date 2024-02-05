@@ -25,7 +25,3 @@ Now each of the variables above will be equal to "the famous cats"
 ```
 
 From there you can overwrite each variable when/if needed.
-
-Check out other Elixir and Ruby posts:
-- [Elixir posts](https://tinytechtuts.com/tags/elixir)
-- [Ruby posts](https://tinytechtuts.com/tags/ruby)

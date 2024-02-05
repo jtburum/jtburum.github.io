@@ -16,12 +16,3 @@ Ports defined in service configuration:
 1) `spec.ports.nodePort` - This is the port of the node(s) in the cluster. It is the port at which the node can be reached from external traffic.
 2) `spec.ports.port` - This is the port of the cluster service itself. After receiving a valid request the traffic will be forwarded to the pod/containers `targetPort`
 3) `spec.ports.targetPort` - This is the port the service will forward requests to. It is the port your pod/container is listening for requests on.
-
-Similar posts:
-- [How to use a secrets file for postgres credentials using Kubernetes](https://tinytechtuts.com/2021-how-to-use-a-secrets-file-for-postgres-credentials-kubernetes)
-- [When to use which service type in Kubernetes](https://tinytechtuts.com/2021-when-to-use-kubernetes-service-types-configip-loadbalancer-nodeport)
-- [Connecting Kubernetes Deployments to Pods](https://tinytechtuts.com/2021-connecting-pods-to-deployments-kubernetes)
-- [How to view a Kubernetes pods IP address](https://tinytechtuts.com/2021-how-to-view-kubernetes-pod-ip-address)
-- [How to view the status data in a Kubernetes Deployment](https://tinytechtuts.com/2021-how-to-view-the-status-data-of-a-kubernetes-deployment)
-- [Create your first Rails app cluster with Kubernetes and Docker](https://tinytechtuts.com/2021-create-your-first-kubernetes-rails-app-pt1)
-- [Kubernetes kubectl commands for newbies](https://tinytechtuts.com/2021-kubernetes-kubectl-commands-for-newbies)

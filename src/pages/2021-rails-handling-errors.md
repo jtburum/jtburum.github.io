@@ -73,10 +73,4 @@ Account.find_by(id: 1234)
 ```
 
 More Ruby cheatsheets:
-[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet),
-[Rails params](https://tinytechtuts.com/2021-rails-params-cheatsheet),
-[Rails DB encryption](https://tinytechtuts.com/2021-rails-db-encryption-cheetsheet)
-
-<br />
-Resources I found useful when writing this:
-- https://stackoverflow.com/questions/2385799/how-to-redirect-to-a-404-in-rails/4983354#4983354
+[Ruby HTTP gem](https://tinytechtuts.com/2021-ruby-http-gem-cheatsheet/)

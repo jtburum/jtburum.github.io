@@ -27,4 +27,4 @@ This snippet demonstrates how to convert a CamelCase string to Snake_Case using 
 I hope this helped! Have a good one!
 
 Check out another post:
-[ECTO: SAVE NESTED RECORDS EXAMPLE](https://tinytechtuts.com/ecto-save-nested-records-example)
+[ECTO: SAVE NESTED RECORDS EXAMPLE](https://tinytechtuts.com/ecto-save-nested-records-example/)

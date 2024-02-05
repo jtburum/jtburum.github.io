@@ -13,4 +13,4 @@ If you did not setup a polymorphic relationship then each of the models would ne
 
 With a polymorphic association setup you do not need to alter the database, you only have to provie the new model name as the `_type` and the records `_id` to the polymorphic model and then declare the `has_many` association on the new model and your new model will be working as expected.
 
-To see an example of a polmoyphic association check out [How to handle token auth in Rails](https://tinytechtuts.com/2022-how-to-handle-token-auth-in-rails).
+To see an example of a polmoyphic association check out [How to handle token auth in Rails](https://tinytechtuts.com/2022-how-to-handle-token-auth-in-rails/).

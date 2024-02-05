@@ -50,6 +50,3 @@ Enum.member?/2
 ```
 Enum.count/1
 ```
-
-For your continued enjoyment:
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

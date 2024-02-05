@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-To gain an understanding of DNS systems in general refer to this [previous post](https://tinytechtuts.com/2022-dns-system-request-flow-explained) on the DNS system request flow.
+To gain an understanding of DNS systems in general refer to this [previous post](https://tinytechtuts.com/2022-dns-system-request-flow-explained/) on the DNS system request flow.
 
 This post is a grouping of main takeaways I came up with with after researching subdomains:
 

@@ -73,4 +73,4 @@ gem 'wisper', '~> 1.0', '<= 1.4.0'
 I hope these notes helped you solve the RubyGem issue you're facing, I know they can be tricky.
 
 Similar post:
-- [How to read Ruby Gemfile versions](https://tinytechtuts.com/2021-how-to-read-gemfile-versions-in-ruby)
+- [How to read Ruby Gemfile versions](https://tinytechtuts.com/2021-how-to-read-gemfile-versions-in-ruby/)

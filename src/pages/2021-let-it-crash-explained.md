@@ -23,10 +23,4 @@ In other VM's like the Java VM, a single thread can be used to handle multiple H
 When building applications we often have external systems that we rely on to handle tasks for us, for example a third party CDN that contains our applications images. If that third party system goes down for a short while, the rest of our application can continue to function without having to recover from the error.
 
 More Elixir process posts:
-[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained),
-[Process module cheatsheet](https://tinytechtuts.com/2021-elixir-process-module-cheatsheet),
-[Processes in phoenix](https://tinytechtuts.com/2021-introduction-to-elixir-processes-in-phoenix),
-[Processes and concurrency](https://tinytechtuts.com/2021-elixir-processes-concurrency-and-parallelism)
-
-Other useful resources:
-- https://elixirforum.com/t/understanding-the-advantages-of-let-it-crash-term/9748
+[Processes for web programmers](https://tinytechtuts.com/2021-beam-elixir-processes-explained/),

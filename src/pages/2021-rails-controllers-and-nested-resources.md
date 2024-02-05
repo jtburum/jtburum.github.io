@@ -35,7 +35,7 @@ class FormsController < ApplicationController
 end
 ```
 
-This structure works fine, you just need to remember to handle routing/redirections appropriately, like I discuss [here](https://tinytechtuts.com/2021-redirect-to-nested-resource-url-rails). However there is another way to structure this code that to me feels more accurate to it's function and that is to update the controller to be a `user_forms` controller that inherits from the `forms` controller.
+This structure works fine, you just need to remember to handle routing/redirections appropriately, like I discuss [here](https://tinytechtuts.com/2021-redirect-to-nested-resource-url-rails/). However there is another way to structure this code that to me feels more accurate to it's function and that is to update the controller to be a `user_forms` controller that inherits from the `forms` controller.
 
 With this new setup any routes that need to access forms outside of the user context can query the `FormsController` and any forms that need to be accessed through a user can be handled through a `UserFormsController`. The resulting code changes follow.
 

@@ -30,4 +30,4 @@ Accout.create(name: "blue bacon", email: "blue@bacon.istasty")
 # "blue bacon"
 ```
 
-If you enjoyed this post, you might also enjoy [How does Rails handle referential integrity](https://tinytechtuts.com/2022-how-does-rails-handle-referential-integrity) or other [ActiveRecord](https://tinytechtuts.com/tags/active-record) posts.
+If you enjoyed this post, you might also enjoy [How does Rails handle referential integrity](https://tinytechtuts.com/2022-how-does-rails-handle-referential-integrity/)

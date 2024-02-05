@@ -39,4 +39,4 @@ You could do so by executing this on your terminal:
 ```
 
 Similar post:
-- [How to base64 encode a string using the command line on macOS](https://tinytechtuts.com/2021-how-to-base64-encode-string-from-command-line)
+- [How to base64 encode a string using the command line on macOS](https://tinytechtuts.com/2021-how-to-base64-encode-string-from-command-line/)

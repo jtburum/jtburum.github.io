@@ -54,4 +54,4 @@ List all of the tables views:
 \dv
 ```
 
-Love databases more than your dog loves cheese? You might want to check out [this post](https://tinytechtuts.com/2022-pg_ctl-vs-psql) on [pg_ctl vs psql](https://tinytechtuts.com/2022-pg_ctl-vs-psql).
+Love databases more than your dog loves cheese? You might want to check out [this post](https://tinytechtuts.com/2022-pg_ctl-vs-psql/).

@@ -97,4 +97,4 @@ def create(params \\ %{}) do
 end
 ```
 
-If you found this useful I also wrote a post about migrating to Elixir's Earmark for markdown processing [here](https://tinytechtuts.com/2021-elixir-earmark-code-parsing):
+If you found this useful I also wrote a post about migrating to Elixir's Earmark for markdown processing [here](https://tinytechtuts.com/2021-elixir-earmark-code-parsing/):

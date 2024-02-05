@@ -7,7 +7,7 @@
   layout: "../layouts/BlogPostLayout.astro"
 ---
 
-This is a code example of how to render a collection of Turbo Frames for inline editing within each frame. This is going to be a continuation from a previous post on [redering Turbo Frames within a form](https://tinytechtuts.com/2022-rendering-a-turbo-frame-inside-a-form){:taget="_blank"}. 
+This is a code example of how to render a collection of Turbo Frames for inline editing within each frame. This is going to be a continuation from a previous post on [redering Turbo Frames within a form](https://tinytechtuts.com/2022-rendering-a-turbo-frame-inside-a-form/). 
 
 Turbo Frames work by first rendering the html content within the frame and then if you click an internal link within a turbo frame it will make a network request to get new html that will replace the current contents of the frame. For this to happen a Turbo Frame with the same Turbo Frame ID needs to exist on both sides of the frame, later in this example that will see that as `name_frame_id`.
 
@@ -92,8 +92,5 @@ orders/separate_form_partials/_step_1.html.erb
 <% end %>
 ```
 
-Further reading:
-- [Handling system authentication in software engineering](https://tinytechtuts.com/2022-system-auth-in-software-engineering)
-- [How to read Ruby open source code locally](https://tinytechtuts.com/2022-how-to-read-ruby-open-source-code-locally)
 
 

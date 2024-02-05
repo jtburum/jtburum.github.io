@@ -22,4 +22,4 @@ gem 'wisper', '~> 2.0', '>= 2.0.1'
 The above `gem` method has two arguments. The first says to install the Wisper gem at a version greater than or equal to 2.0 (>= 2.0) and less than 3.0 (< 3.0). The second argument makes it more specific and requires that the version be greater than or equal to 2.0.1.
 
 Similar post:
-- [The missing guide to troubleshooting RubyGem issues](https://tinytechtuts.com/2021-the-missing-guide-to-troubleshooting-rubygem-issues)
+- [The missing guide to troubleshooting RubyGem issues](https://tinytechtuts.com/2021-the-missing-guide-to-troubleshooting-rubygem-issues/)

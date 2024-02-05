@@ -37,4 +37,4 @@ Running this script will print:
 "ExtendedClass"
 ```
 
-To fill your hearts desire for more ruby programming blog posts check out [this one](https://tinytechtuts.com/2022-breaking-out-of-a-block).
+To fill your hearts desire for more ruby programming blog posts check out [this one](https://tinytechtuts.com/2022-breaking-out-of-a-block/).
