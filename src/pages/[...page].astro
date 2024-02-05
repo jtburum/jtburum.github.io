@@ -7,9 +7,11 @@ import Footer from '../components/Footer/Footer.astro'
 import Paginator from '../components/Paginator.astro'
 
 
-export async function getStaticPaths({ paginate }) {
+export async function getStaticPaths({ paginate }) {  
   const allPosts = await Astro.glob<MarkdownFrontmatter>('./*.md');
   const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
+  console.log("testingthis");
+  console.log(sortedPosts);
   return paginate(sortedPosts, {
     pageSize: 21
   })
