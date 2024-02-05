@@ -6,9 +6,5 @@ console.log("did define config get called?")
 export default defineConfig({
   integrations: [sitemap()],
   site: "https://tinytechtuts.com",
-  base: "/",
-  trailingSlash: "never",
-  buildOptions: {
-    trailingSlash: "never"
-  }
+  trailingSlash: "never"
 });
