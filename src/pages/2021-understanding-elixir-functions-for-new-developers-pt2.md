@@ -94,5 +94,3 @@ add_three_without_capture.(2, 4, 3)
 add_three_with_capture = &(&1 + &2 + &3) 
 add_three_with_capture.(2, 4, 3)
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

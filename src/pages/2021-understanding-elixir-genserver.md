@@ -51,4 +51,3 @@ This is used for all other messages to the server, for example process crash mes
 <h3>Are GenServers used for code organization, for handling mutable state, or for providing concurrency?</h3>
 GenServers are used to for handling of mutable state and for providing concurrency. GenServer's are not used for code organization.
 
-- [More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)

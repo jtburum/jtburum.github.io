@@ -110,5 +110,3 @@ def create(params \\ %{}) do
   %DevDecks.User{} |> cast(params, [:email, :name]) |> Repo.insert() 
 end
 ```
-
-[More Elixir lang decks](https://tinytechtuts.com/tags/elixir-deck)
