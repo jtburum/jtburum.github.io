@@ -7,7 +7,7 @@ export default defineConfig({
   site: "https://tinytechtuts.com",
   trailingSlash: "ignore",
   build: {
-    format: "file",
+    format: "directory",
     trailingSlash: "never"
   }
 });
