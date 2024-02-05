@@ -5,5 +5,8 @@ import sitemap from "@astrojs/sitemap";
 export default defineConfig({
   integrations: [sitemap()],
   site: "https://tinytechtuts.com",
-  trailingSlash: "ignore"
+  trailingSlash: "ignore",
+  build: {
+    format: "file"
+  }
 });
