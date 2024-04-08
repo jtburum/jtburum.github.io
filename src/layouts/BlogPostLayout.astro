@@ -4,7 +4,9 @@ import BaseHead from '../components/Head/BaseHead.astro';
 import BlogPost from '../components/BlogPost.astro';
 
 const {content} = Astro.props;
-const {title, description, date, hero, youtube} = content;
+let {title, description, date, hero, youtube} = content;
+
+title = title ? title : "";
 ---
 <html lang={ content.lang || 'en' }>
   <head>

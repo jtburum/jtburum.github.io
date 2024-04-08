@@ -9,13 +9,7 @@ import Paginator from '../components/Paginator.astro'
 
 export async function getStaticPaths({ paginate }) {  
   const allPosts = await Astro.glob<MarkdownFrontmatter>('./*.md');
-  console.log("called on me getStaticPaths");
   const sortedPosts = allPosts.sort((a, b) => new Date(b.frontmatter.pubDate).valueOf() - new Date(a.frontmatter.pubDate).valueOf());
-  console.log("paginate return")
-  const p = paginate(sortedPosts, {
-    pageSize: 21
-  })
-  console.log(p)
 
   return paginate(sortedPosts, {
     pageSize: 21
