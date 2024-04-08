@@ -1,0 +1,48 @@
+---
+import Card from '../../components/Card.astro';
+
+// Define getStaticPaths to fetch the posts and extract tags
+export async function getStaticPaths() {
+  // Fetch all markdown files inside getStaticPaths
+  const allPosts = await Astro.glob('../*.md');
+
+  // Extract all unique tags from the markdown files
+  let tags = new Set(allPosts.flatMap(post => post.frontmatter.tags));
+  tags = Array.from(tags);
+  console.log(tags);
+  tags = tags.filter(element => element !== undefined);;
+
+  // console.log("tags");
+  // console.log(tags);
+// Generate paths for each unique tag
+  const paths = tags.map(tag => {    
+    return {
+      params: { tag },
+    };
+  });
+
+  // Ensure the return value is an array of paths
+  return paths;
+}
+
+// Access the current tag from the URL
+console.log("hellooo")
+console.log(Astro.params)
+const { tag } = Astro.params;
+
+// Since we cannot share allPosts between getStaticPaths and the component,
+// we need to fetch them again here for filtering
+const filteredPosts = (await Astro.glob('../*.md')).filter(post => post.frontmatter.tags && post.frontmatter.tags.includes(tag));
+---
+
+<html>
+  <head>
+  </head>
+  <body>
+    <ul>
+      {filteredPosts.map(p => <div class="col-span-1">
+        <Card post={p} />
+      </div>)}
+    </ul>
+  </body>
+</html>
